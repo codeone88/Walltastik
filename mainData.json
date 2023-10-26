@@ -7,6 +7,11 @@
 	      "img": "all.png"
 	    },
 	    {
+	      "title":"Collections",
+	      "category": "Collections",
+	      "img": "collections.jpg"
+	    }, 
+	    {
 	      "title":"Landscape",
 	      "category": "Landscape",
 	      "img": "landscape.jpg"
@@ -227,11 +232,11 @@
 		},
 		{
 			"user": "Walltastik",
-			"link": "krTE1xF2n9Y-01.jpg",
+			"link": "krTE1xF2n9Y-01.jpeg",
 			"category": ["Photography"],
 			"price":"free",
 			"dsource": "img/Wallpapers/Wallers/",
-			"dlink": "krTE1xF2n9Y-01.jpg"
+			"dlink": "krTE1xF2n9Y-01.jpeg"
 		},
 		{
 			"user": "Walltastik",
