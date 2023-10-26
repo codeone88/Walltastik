@@ -1,4 +1,108 @@
 {
-	"active":false,
-	"categories": []
+	"active":true,
+	"categories": [
+	    {
+	      title:'All',
+	      category: 'All',
+	      img: 'all.png'
+	    },
+	    {
+	      title:'Landscape',
+	      category: 'Landscape',
+	      img: 'landscape.jpg'
+	    }, 
+	    {
+	      title:'AI',
+	      category:'AI',
+	      img: 'ai.JPG'
+	    }, 
+	    {
+	      title:'Abstract',
+	      category:'Abstract',
+	      img: 'abstract.jpg'
+	    }, 
+	    {
+	      title:'Photography',
+	      category:'Photography',
+	      img: 'photography.jpg'
+	    },
+	    {
+	      title:'Aesthetic',
+	      category:'Retro',
+	      img: 'retro.jpg'
+	    }
+	],
+	"creators":[
+	  {
+         	 "user": "Wallers Collection",
+		 "social": "https://twitter.com/WallersGallery",
+		 "store": "https://twitter.com/WallersGallery",
+		 "picture": "https://i.ibb.co/H7cDhZS/icon512.png",
+		 "status": "online"
+	  },
+	  {
+		 "user": "Artemis Prime",
+		 "social": "https://twitter.com/fresk0_?s=20",
+		 "store": "https://t.co/3jS8QjUWeo?amp=1",
+		 "picture": "https://i.ibb.co/7zyPqz4/artemis.jpg",
+		 "status": "online"
+	  },
+	  {
+		 "user": "Gabriel",
+		 "social": "https://twitter.com/GWallp08",
+		 "store": "https://bento.me/gabriel-gw",
+		 "picture": "https://i.ibb.co/0jvdT0d/gabriel.jpg",
+		 "status": "online"
+	  },
+	  {
+		 "user": "W A L Ls匚卂ㄒ乇",
+		 "social": "https://twitter.com/wallscate",
+		 "store": "https://twitter.com/caterina_o?s=20",
+		 "picture": "https://i.ibb.co/cvFYL3r/cat.png",
+		 "status": "online"
+	  },
+	  {
+		 "user": "Wallpaperize",
+		 "social": "https://twitter.com/wallpaperize?s=21&t=zzAoSGrBTpokPn7DbLc2AQ",
+		 "store": "https://www.wallpaperize.cc",
+		 "picture": "https://i.ibb.co/fpfx2xB/wallpaperize.jpg",
+		 "status": "online"
+	  },
+	  {
+		 "user": "PakoPod",
+		 "social": "https://twitter.com/Wallpapers_iOSi",
+		 "store": "https://bio.link/wallpp",
+		 "picture": "https://i.ibb.co/jwmMDR7/pakopod.jpg",
+		 "status": "online"
+	  },
+	  {
+		 "user": "themexriver",
+		 "social": "https://twitter.com/themexriver1",
+		 "store": "https://themexriver.com/downloads/category/themexriver-items/wallpapers-themexriver-items/",
+		 "picture": "https://i.ibb.co/cXFv39B/Theme-Xriver.jpg",
+		 "status": "online"
+	  },
+	  {
+         	 "user": "colorwallies",
+		 "social": "https://twitter.com/colorwallies",
+		 "store": "https://bio.link/colorwallies",
+		 "picture": "https://i.ibb.co/1LCqYj3/colorwallies.png",
+		 "status": "online"
+	  },
+	  {
+		 "user": "moondr1",
+		 "social": "https://x.com/moondr1?s=21&t=zzAoSGrBTpokPn7DbLc2AQ",
+		 "store": "https://ko-fi.com/moondr1",
+		 "picture": "https://i.ibb.co/VBnbBpF/moondr1.jpg",
+		 "status": "online"
+	  },
+	  {
+		 "user": "CodeOne88",
+		 "social": "https://twitter.com/Enter_Apps",
+		 "store": "https://ko-fi.com/codeone88/shop",
+		 "picture": "https://i.ibb.co/C7zz8N4/logo-Code-One512.png",
+		 "status": "online"
+	  }
+   	],
+	"wallpapers": []
 }
