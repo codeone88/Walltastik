@@ -2,34 +2,34 @@
 	"active":true,
 	"categories": [
 	    {
-	      title:'All',
-	      category: 'All',
-	      img: 'all.png'
+	      "title":"All",
+	      "category": "All",
+	      "img": "all.png"
 	    },
 	    {
-	      title:'Landscape',
-	      category: 'Landscape',
-	      img: 'landscape.jpg'
+	      "title":"Landscape",
+	      "category": "Landscape",
+	      "img": "landscape.jpg"
 	    }, 
 	    {
-	      title:'AI',
-	      category:'AI',
-	      img: 'ai.JPG'
+	      "title":"AI",
+	      "category":"AI",
+	      "img": "ai.JPG"
 	    }, 
 	    {
-	      title:'Abstract',
-	      category:'Abstract',
-	      img: 'abstract.jpg'
+	      "title":"Abstract",
+	      "category":"Abstract",
+	      "img": "abstract.jpg"
 	    }, 
 	    {
-	      title:'Photography',
-	      category:'Photography',
-	      img: 'photography.jpg'
+	      "title":"Photography",
+	      "category":"Photography",
+	      "img": "photography.jpg"
 	    },
 	    {
-	      title:'Aesthetic',
-	      category:'Retro',
-	      img: 'retro.jpg'
+	      "title":"Aesthetic",
+	      "category":"Retro",
+	      "img": "retro.jpg"
 	    }
 	],
 	"creators":[
