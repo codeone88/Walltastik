@@ -37,12 +37,104 @@
 	      "img": "retro.jpg"
 	    }
 	],
+	"collections": [
+		{
+			"title": "From Space",
+			"collection": "space",
+			"wallpapers": [
+				{
+					"user": "Walltastik",
+					"link": "IMG_4162.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "IMG_4162.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4163.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "IMG_4163.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4164.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "IMG_4164.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4165.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "IMG_4165.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4166.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "IMG_4166.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4167.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "IMG_4167.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4168.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "IMG_4168.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4169.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "IMG_4169.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4170.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "IMG_4170.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4171.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "IMG_4171.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4172.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "IMG_4172.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4173.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "IMG_4173.JPG"
+				}
+			]
+		}
+	],
 	"creators":[
 	  {
          "user": "Walltastik",
 		 "social": "https://twitter.com/WallersGallery",
 		 "store": "https://twitter.com/WallersGallery",
-		 "picture": "https://i.ibb.co/H7cDhZS/icon512.png",
+		 "picture": "https://i.ibb.co/0K4KVxR/icon512.png",
 		 "status": "online"
 	  },
 	  {
@@ -110,6 +202,318 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "IMG_1834.JPG",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "IMG_1834.JPG"
+		},
+		{
+			"user": "Walltastik",
+			"link": "IMG_1835.JPG",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "IMG_1835.JPG"
+		},
+		{
+			"user": "Walltastik",
+			"link": "Z9QoQ6d_mKg-01~01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "Z9QoQ6d_mKg-01~01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "yOfWW2IafJs-01~01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "yOfWW2IafJs-01~01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "u8Jn2rzYIps-01~01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "u8Jn2rzYIps-01~01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "kakvfQBniyI-01~01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "kakvfQBniyI-01~01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "jyYAQaUDjzI-01~01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "jyYAQaUDjzI-01~01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "jkqGsgsE0RY-01~01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "jkqGsgsE0RY-01~01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "DgtbXKO1UOY-01~01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "DgtbXKO1UOY-01~01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "3ClESM-Ij24-01~01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "3ClESM-Ij24-01~01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "george-pagan-iii-qJxHMNy8Btw.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "george-pagan-iii-qJxHMNy8Btw.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "rafael-garcin-ccZU0ScAQnU.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "rafael-garcin-ccZU0ScAQnU.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "mitchell-luo-5AVqDkH2DnU.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "mitchell-luo-5AVqDkH2DnU.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "mona-eendra-vC8wj_Kphak.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "mona-eendra-vC8wj_Kphak.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "marie-michele-bouchard-hFOFmLeQBDg.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "marie-michele-bouchard-hFOFmLeQBDg.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "pawel-czerwinski-l8DUam8vtbc.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "pawel-czerwinski-l8DUam8vtbc.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "tamanna-rumee-7OCUyev2M9E.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "tamanna-rumee-7OCUyev2M9E.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "pawel-czerwinski-OG44d93iNJk.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "pawel-czerwinski-OG44d93iNJk.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "ussama-azam-ynsAeGixMvE.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "ussama-azam-ynsAeGixMvE.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "brian-patrick-tagalog-_8hGFBxWD0A.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "brian-patrick-tagalog-_8hGFBxWD0A.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "marvin-van-beek-mMyvF0R7e38.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "marvin-van-beek-mMyvF0R7e38.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "pawel-czerwinski-YWIOwHvRBvU.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "pawel-czerwinski-YWIOwHvRBvU.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "scott-webb-mV9-1XjnM4Y.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "scott-webb-mV9-1XjnM4Y.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "pawel-czerwinski-g2Zf3hJyYAc.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "pawel-czerwinski-g2Zf3hJyYAc.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "brandi-redd-aJTiW00qqtI.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "brandi-redd-aJTiW00qqtI.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "pawel-czerwinski-prMn9KINLtI.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "pawel-czerwinski-prMn9KINLtI.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "alex-wong-l5Tzv1alcps.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "alex-wong-l5Tzv1alcps.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "bady-abbas-hxi_yRxODNc.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "bady-abbas-hxi_yRxODNc.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "joshua-rivera-usmhPmT5sj0.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "joshua-rivera-usmhPmT5sj0.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "aron-van-de-pol-hXOGHaGCtdA.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "aron-van-de-pol-hXOGHaGCtdA.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "fakurian-design-PGdW_bHDbpI.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "fakurian-design-PGdW_bHDbpI.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "ricardo-gomez-angel-5YM26lUicfU.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "ricardo-gomez-angel-5YM26lUicfU.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "ricardo-gomez-angel-GsZLXA4JPcM.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "ricardo-gomez-angel-GsZLXA4JPcM.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "jean-philippe-delberghe-75xPHEQBmvA.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "jean-philippe-delberghe-75xPHEQBmvA.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "dhruv-weaver-DtNOKuodKD4.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "dhruv-weaver-DtNOKuodKD4.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "stephen-johnson-Q8_-Cc-IXRY.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "stephen-johnson-Q8_-Cc-IXRY.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "jason-leung-wmyE5IBiOmo.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "jason-leung-wmyE5IBiOmo.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "daniel-olah-VS_kFx4yF5g.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "daniel-olah-VS_kFx4yF5g.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "alex-perez-ioJBsYQ-pPM.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "alex-perez-ioJBsYQ-pPM.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "2_pAvGwczac-01~01.jpg",
