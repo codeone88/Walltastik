@@ -974,6 +974,68 @@
 					"dlink": "IMG_4279.JPG"
 				}
 			]
+		},
+		{
+			"title": "Shadows",
+			"collection": "shadows",
+			"wallpapers":[
+				{
+					"user": "Walltastik",
+					"link": "IMG_4335.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "IMG_4335.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4334.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "IMG_4334.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4333.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "IMG_4333.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4332.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "IMG_4332.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4331.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "IMG_4331.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4330.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "IMG_4330.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4329.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "IMG_4329.JPG"
+				},
+				{
+					"user": "Walltastik",
+					"link": "IMG_4328.JPG",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "IMG_4328.JPG"
+				}
+			]
 		}
 	],
 	"creators":[
@@ -1049,6 +1111,46 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "IMG_6763.JPG",
+			"category": ["Retro"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "IMG_6763.JPG"
+		},
+		{
+			"user": "Walltastik",
+			"link": "IMG_6770.JPG",
+			"category": ["Retro"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "IMG_6770.JPG"
+		},
+		{
+			"user": "Walltastik",
+			"link": "maurice-sahl-OvrBsuUEw94-01~01.jpg",
+			"category": ["Retro"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "maurice-sahl-OvrBsuUEw94-01~01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "qhhp1LwvPSI-01~01.jpg",
+			"category": ["Retro"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "qhhp1LwvPSI-01~01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "willian-justen-de-vasconcellos-DG7x7m4pQJU_1.jpg",
+			"category": ["Retro"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "willian-justen-de-vasconcellos-DG7x7m4pQJU_1.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "nick-brunner-LXspKUjsgH0-unsplash.jpg",
