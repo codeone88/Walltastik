@@ -970,6 +970,41 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/7LMK3yn2/IMG-4395.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/gG11PzwN/IMG-4395.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/MpBPGBct/IMG-4385.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/Gd7ZqJb0/IMG-4385.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/SN31qdKJ/IMG-4384.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/1s5kGYhc/IMG-4384.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/tgHrngWb/IMG-4383.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/bqZ4MDvZ/IMG-4383.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/sDvHtqsk/IMG-4382.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/CYNyfptx/IMG-4382.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/651T35w7/IMG-4335.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Shadows/",
@@ -1100,6 +1135,46 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/bJ2WbGsb/mx-IGWk111u0-01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/69HXknKH/mx-IGWk111u0-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/2jhgSZpN/ig-RXe-Lr7-PDU-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/ZmMmj8Vn/ig-RXe-Lr7-PDU-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/4y60Lrvx/c-PNe-N7t-Lo-Ho-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/wqZdvz7L/c-PNe-N7t-Lo-Ho-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/VLFTjPL7/1-Ayq-Zc-C7z-Sg-01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/B4W0fqWG/1-Ayq-Zc-C7z-Sg-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/x1TZ5pX9/0h-Im2k-IFTuc-01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/bpQjzK8S/0h-Im2k-IFTuc-01.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/sXJd71kP/IMG-6763.jpg",
