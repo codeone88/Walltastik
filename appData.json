@@ -595,6 +595,27 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/RVdCD3Cs/IMG-4456.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/fDn3kXGN/IMG-4456.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/W4F2zXGC/IMG-4455.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/jRvC81Lx/IMG-4455.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/8PNP4dGf/IMG-4290.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/Ph8ptKFy/IMG-4290.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/zD4d9SZc/IMG-4197.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Portraits/",
@@ -718,6 +739,27 @@
 			"title": "Aesthetic",
 			"collection": "aesthetic",
 			"wallpapers":[
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/L50ftxWf/IMG-4389.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Aesthetic/",
+					"dlink": "https://i.postimg.cc/XNn80hc2/IMG-4389.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/TP8VNH3J/IMG-4388.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Aesthetic/",
+					"dlink": "https://i.postimg.cc/8TcZ5289/IMG-4388.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/Wb3wdkyg/IMG-4387.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Aesthetic/",
+					"dlink": "https://i.postimg.cc/rcGnYGCn/IMG-4387.jpg"
+				},
 				{
 					"user": "Walltastik",
 					"link": "https://i.postimg.cc/jdm7NFxd/IMG-4247.jpg",
@@ -1211,8 +1253,8 @@
 	"creators":[
 	  {
          "user": "Walltastik",
-		 "social": "https://twitter.com/WallersGallery",
-		 "store": "https://twitter.com/WallersGallery",
+		 "social": "https://twitter.com/Enter_Apps",
+		 "store": "https://ko-fi.com/codeone88/shop",
 		 "picture": "https://i.ibb.co/0K4KVxR/icon512.png",
 		 "status": "online"
 	  },
@@ -1281,6 +1323,46 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/T1r97xs6/8xt9-Be-YQf5-U-01-01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/DvNMzyd8/8xt9-Be-YQf5-U-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/q7zGfyFQ/8-RW2omnsdug-01-01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/09CXwC0g/8-RW2omnsdug-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/kXT8nDKH/5-WFf-I63a-EBo-01-01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/kXT8nDKH/5-WFf-I63a-EBo-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/9fKYcz52/3fv-Hj-NUb-Jn-U-01-01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/BqQYc1mj/3fv-Hj-NUb-Jn-U-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/pL7FF70Y/1-T4-Y-qr-KTf-Y-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/BJZcdfHy/1-T4-Y-qr-KTf-Y-01-01.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/bJ2WbGsb/mx-IGWk111u0-01.jpg",
