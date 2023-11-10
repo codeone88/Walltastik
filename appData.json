@@ -463,6 +463,27 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/VkVGRDRJ/IMG-4510.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/fMwGMPSf/IMG-4510.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/DwZpLtqV/IMG-4509.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/5bqcdJyt/IMG-4509.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/85W0sMLj/IMG-4508.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/tXmQSzTt/IMG-4508.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/g0fVbyk4/IMG-4242.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Ink/",
@@ -1323,6 +1344,46 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/7P7mY1ZW/DJ5-Gc-Lp5-PYQ-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/7P7mY1ZW/DJ5-Gc-Lp5-PYQ-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/x1sPFt6c/Dgd-J-0us5-SE-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/5fJkyrvq/Dgd-J-0us5-SE-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/jj7JQXmV/cu-EIlcp-UXL8-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/8TyBGXbC/cu-EIlcp-UXL8-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/pLyjyxBL/c7-Qb-Hvw-O8-DE-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/pLyjyxBL/c7-Qb-Hvw-O8-DE-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/pd6qyqjg/9m-ZHXa-RYFk-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/pd6qyqjg/9m-ZHXa-RYFk-01-01.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/T1r97xs6/8xt9-Be-YQf5-U-01-01.jpg",
