@@ -11,7 +11,12 @@
 	      "title":"Collections",
 	      "category": "Collections",
 	      "img": "collections.jpg"
-	    }, 
+	    },  
+	    {
+	      "title":"Freemium",
+	      "category": "Freemium",
+	      "img": "freemium.JPG"
+	    },
 	    {
 	      "title":"Landscape",
 	      "category": "Landscape",
@@ -1659,6 +1664,38 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/0Qz6bYTJ/IMG-4285.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Glows/",
+			"dlink": "https://i.postimg.cc/fwKYq555/IMG-4285.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/qvLW1Rw1/IMG-4299.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/CuteAnimals/",
+			"dlink": "https://i.postimg.cc/WsLjbqkc/IMG-4299.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/zBdsCm42/IMG-4275.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/LoFi/",
+			"dlink": "https://i.postimg.cc/L9RmM2DS/IMG-4275.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/651T35w7/IMG-4335.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Shadows/",
+			"dlink": "https://i.postimg.cc/ys7RLkbT/IMG-4335.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/fTfCYwX7/g-Q-2eo-Mml-E-01-01.jpg",
