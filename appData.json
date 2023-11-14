@@ -524,6 +524,48 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/Ghb5hBtm/IMG-4512.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/Sq9FdCpC/IMG-4512.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/SNVtXyY7/IMG-4513.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/tpH0MJXf/IMG-4513.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/QNQz3gXz/IMG-4514.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/0vF17Zh9/IMG-4514.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/fL4H4y1Z/IMG-4515.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/SyRHMzrX/IMG-4515.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/xdNsFMxt/IMG-4516.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/FhD2zxj5/IMG-4516.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/nrp0z5HP/IMG-4517.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/7HTcB8jw/IMG-4517.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/VkVGRDRJ/IMG-4510.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Ink/",
@@ -1923,6 +1965,102 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/FzTqvBMS/IMG-4223.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Space/",
+			"dlink": "https://i.postimg.cc/ryTL16gf/IMG-4223.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/zBJ0fkSF/IMG-4170.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Space/",
+			"dlink": "https://i.postimg.cc/jsf9ZgDm/IMG-4170.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/wx5hnmKc/IMG-4245.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Ink/",
+			"dlink": "https://i.postimg.cc/pv4qhfq7/IMG-4245.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/brP1sznt/IMG-4177.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Ink/",
+			"dlink": "https://i.postimg.cc/6W2cbq5Y/IMG-4177.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/GpMKzvxz/IMG-4200.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Portraits/",
+			"dlink": "https://i.postimg.cc/W2VyNnFR/IMG-4200.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/zB6jY5Mg/IMG-4201.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Portraits/",
+			"dlink": "https://i.postimg.cc/FrsncHVD/IMG-4201.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/9QyR0Xcy/IMG-4414.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Aesthetic/",
+			"dlink": "https://i.postimg.cc/Tf4rkhSN/IMG-4414.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/TP8VNH3J/IMG-4388.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Aesthetic/",
+			"dlink": "https://i.postimg.cc/8TcZ5289/IMG-4388.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/ZKwCFDJy/IMG-4227.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Luminescent/",
+			"dlink": "https://i.postimg.cc/dwYrFzXn/IMG-4227.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/0NmzGjQs/IMG-4668.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/LoFi/",
+			"dlink": "https://i.postimg.cc/nnSqJQfC/IMG-4668.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/13stnMg5/IMG-4600.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Shadows/",
+			"dlink": "https://i.postimg.cc/mBFFn5BM/IMG-4600.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/jjZ7jN5F/IMG-4523.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/CuteAnimals/",
+			"dlink": "https://i.postimg.cc/YpwfbzwM/IMG-4523.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/7PNTQ5NP/IMG-4663.jpg",
