@@ -865,6 +865,55 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/fbBbSJpS/IMG-4448.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Aesthetic/",
+					"dlink": "https://i.postimg.cc/CFVnt847/IMG-4448.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/XvVJvwH0/IMG-4447.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Aesthetic/",
+					"dlink": "https://i.postimg.cc/33GDn12W/IMG-4447.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/vZwTJR5T/IMG-4446.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Aesthetic/",
+					"dlink": "https://i.postimg.cc/L2nPZ2Xt/IMG-4446.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/dVR3vW9B/IMG-4445.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Aesthetic/",
+					"dlink": "https://i.postimg.cc/3YVvXV4P/IMG-4445.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/BQKt7ZLR/IMG-4444.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Aesthetic/",
+					"dlink": "https://i.postimg.cc/X32FJpVN/IMG-4444.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/WpKh7q3M/IMG-4443.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Aesthetic/",
+					"dlink": "https://i.postimg.cc/b8YkpQfF/IMG-4443.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/L5r54w7y/IMG-4442.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Aesthetic/",
+					"dlink": "https://i.postimg.cc/PfqwykMk/IMG-4442.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/TwNhFpcv/IMG-4439.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Aesthetic/",
@@ -1965,6 +2014,54 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/TwNhFpcv/IMG-4439.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Aesthetic/",
+			"dlink": "https://i.postimg.cc/YrMg4FG0/IMG-4439.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/VvBq9RSs/TBS29-Drf-Lb4-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/pW3sHcRj/TBS29-Drf-Lb4-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/vmB0Qp4r/pulu-Ii-Hys-G4-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/y7htTKBb/pulu-Ii-Hys-G4-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/CL7CzcTm/PRSm9-059-I-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/ys4LpGf4/PRSm9-059-I-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/9Mw19Ztz/Nx2-UF4e6-VOk-01-01.jpg",
+			"category": ["Landscape"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/9Mw19Ztz/Nx2-UF4e6-VOk-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/vHbLYpj4/nd-Vy-Nyll5v-M-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/4Zh85GQQ/nd-Vy-Nyll5v-M-01-01.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/FzTqvBMS/IMG-4223.jpg",
