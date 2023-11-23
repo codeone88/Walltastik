@@ -56,6 +56,159 @@
 	],
 	"collections": [
 		{
+			"title": "Daily",
+			"collection": "daily",
+			"wallpapers":[
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/cJ0xPnfb/IMG-4872.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/D7bSJQ0n/IMG-4872.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/HxLpk1Z0/IMG-4873.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/nH4MTHqW/IMG-4873.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/pLDV0Z5j/IMG-4874.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/KxWK8pZ0/IMG-4874.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/kG09s6nw/IMG-4875.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/QNttX1vL/IMG-4875.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/MZNWq4yR/IMG-4876.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/7DYbMrhB/IMG-4876.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/PJpT1zkP/IMG-4877.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/M6tH2dPb/IMG-4877.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/ZqHbm5cK/IMG-4878.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/08Rbp6Km/IMG-4878.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/9MNc4gK6/IMG-4879.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/RSvhDjRZ/IMG-4879.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/qMKpRLLF/IMG-4880.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/vMqT026G/IMG-4880.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/YCwMmWDC/IMG-4881.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/gmxJQyv8/IMG-4881.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/0ydxGyhd/IMG-4913.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/4sjdgK5M/IMG-4913.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/g0gW5Bzx/IMG-4914.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/KZ281dCD/IMG-4914.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/fLkNhjyB/IMG-4915.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/SyfNCghF/IMG-4915.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/yd5z6gSB/IMG-4916.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/HYWW2bYJ/IMG-4916.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/prFMmWDj/IMG-4917.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/cxDx56CF/IMG-4917.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/qgHVnPL5/IMG-4918.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/FF7rtmJN/IMG-4918.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/ry0D15j1/IMG-4919.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/Vw4XcRbV/IMG-4919.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/v8Jc3D2p/IMG-4920.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/NYMmGH6f/IMG-4920.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/4xZnRqgP/IMG-4921.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/fDSdmQqG/IMG-4921.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/pLZrWCVH/IMG-4922.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/y7qZTpwk/IMG-4922.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/xd1Ccmqb/IMG-4923.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/mTQFpNsV/IMG-4923.jpg"
+				}
+			]
+		},
+		{
 			"title": "No Forms",
 			"collection": "abstract",
 			"wallpapers":[
@@ -2571,6 +2724,62 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/prFMmWDj/IMG-4917.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Daily/",
+			"dlink": "https://i.postimg.cc/cxDx56CF/IMG-4917.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/qgHVnPL5/IMG-4918.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Daily/",
+			"dlink": "https://i.postimg.cc/FF7rtmJN/IMG-4918.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/6qH8KZ4F/Hsc-Nqr-Wavms-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/59JLwq49/Hsc-Nqr-Wavms-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/QxyFnp3T/h5-Xc-T5-T0-ST8-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/tpXFJ5v2/h5-Xc-T5-T0-ST8-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/g2jvxzYv/gy8d-Dhxsn6g-01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/6tLz1qg1/gy8d-Dhxsn6g-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/pdYXxjgk/Gu-0-Nc-DYf-Y4-01-01.jpg",
+			"category": ["Retro"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/x9Bkvygr/Gu-0-Nc-DYf-Y4-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/25PFpsNn/eugene-golovesov-o0c03wr-PXsk-unsplash-01.jpg",
+			"category": ["Retro"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/9Wfx92xg/eugene-golovesov-o0c03wr-PXsk-unsplash-01.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/WpH4xsgJ/IMG-4642.jpg",
