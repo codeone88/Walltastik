@@ -1,0 +1,14 @@
+{
+	"active":true,
+	"freeDays": false,
+	"themes":[
+		{
+			"name": "Elevation Grad",
+			"price": "free",
+			"description": "296 PNG icons.",
+			"author": "CodeOne88",
+			"social": "https://twitter.com/Enter_Apps",
+			"screenshot": "https://i.ibb.co/sPnz1Mm/elevation-grad.png"
+		}
+	]
+}
