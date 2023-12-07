@@ -5,11 +5,74 @@
 		{
 			"name": "Elevation Grad",
 			"price": "free",
-			"description": "296 PNG icons.",
+			"description": "296 colorful minimal PNG icons.",
 			"author": "CodeOne88",
-			"social": "https://twitter.com/Enter_Apps",
+			"social": "https://bento.me/codeone88",
 			"screenshot": "https://i.ibb.co/sPnz1Mm/elevation-grad.png",
 			"download": "https://www.dropbox.com/s/47xtecmgcdlgcgk/ElevationGrad.zip?dl=0"
+		},
+		{
+			"name": "Elevation",
+			"price": "free",
+			"description": "296 dark minimal PNG icons.",
+			"author": "CodeOne88",
+			"social": "https://bento.me/codeone88",
+			"screenshot": "https://i.postimg.cc/j2y5crVP/elevation.png",
+			"download": "https://www.dropbox.com/s/9nsm6qe1n772yxc/Elevation.zip?dl=0"
+		},
+		{
+			"name": "CycleOpium",
+			"price": "paid",
+			"description": "484 dark PNG icons.",
+			"author": "CodeOne88",
+			"social": "https://bento.me/codeone88",
+			"screenshot": "https://i.postimg.cc/1336g0RR/cycleopium1.png",
+			"download": "https://www.dropbox.com/s/5ypssfxvmk2borc/CycleOpium.zip?dl=0"
+		},
+		{
+			"name": "Cycle",
+			"price": "paid",
+			"description": "484 colorful PNG icons.",
+			"author": "CodeOne88",
+			"social": "https://bento.me/codeone88",
+			"screenshot": "https://i.postimg.cc/Pqgnp4jB/cycle1.png",
+			"download": "https://www.dropbox.com/s/nblvsuhznfmcwzf/Cycle.zip?dl=0"
+		},
+		{
+			"name": "CycleMorphine",
+			"price": "paid",
+			"description": "484 white style PNG icons.",
+			"author": "CodeOne88",
+			"social": "https://bento.me/codeone88",
+			"screenshot": "https://i.postimg.cc/CLBtD8v0/cyclemorphine1.png",
+			"download": "https://www.dropbox.com/s/0xjthjy8b4uo2fj/CycleMorphine.zip?dl=0"
+		},
+		{
+			"name": "Dust",
+			"price": "free",
+			"description": "334 dark PNG icons.",
+			"author": "CodeOne88",
+			"social": "https://bento.me/codeone88",
+			"screenshot": "https://i.postimg.cc/VLj0ZGvk/dust.png",
+			"download": "https://www.dropbox.com/s/0wxr8f1svbsc8vk/Dust%20.zip?dl=0"
+		},
+		{
+			"name": "Wrap",
+			"price": "paid",
+			"description": "488 colorful PNG icons.",
+			"author": "CodeOne88",
+			"social": "https://bento.me/codeone88",
+			"screenshot": "https://i.postimg.cc/wTTgCS8G/wrap1.png",
+			"download": "https://www.dropbox.com/s/744qqwhxg2370q7/Wrap.zip?dl=0"
+		},
+		{
+			"name": "Wrap Dark",
+			"price": "paid",
+			"description": "488 colorful PNG icons.",
+			"author": "CodeOne88",
+			"social": "https://bento.me/codeone88",
+			"screenshot": "https://i.postimg.cc/Dfc7Y7DG/wrapdark1.png",
+			"download": "https://www.dropbox.com/s/1f8aezs8pkmm9lx/Wrap-Dark.zip?dl=0"
 		}
 	]
 }
