@@ -4643,6 +4643,46 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/g2kGzwcF/alex-trajilovic-8-YIPSVk-Ep1-Q-01-01.jpg",
+			"category": ["Retro"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/5b8ymvZ0/alex-trajilovic-8-YIPSVk-Ep1-Q-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/qvjPdVPt/z-Pcyn4-WIM-o-01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/Fh4N3hGx/z-Pcyn4-WIM-o-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/xTQhJ1YJ/xkk-Pemhn-VIQ-01-01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/MxfSLnFD/xkk-Pemhn-VIQ-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/yx45TVZG/W-mfo-Oi1-Elc-01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/M6vSqHKz/W-mfo-Oi1-Elc-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/vTqjVtf3/IMG-5470.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Ink/",
+			"dlink": "https://i.postimg.cc/xjnSBsCD/IMG-5470.jpg"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/HLnfYvm6/q-Ne0-H31x96-I-01-01.jpg",
 			"category": ["Abstract"],
 			"price":"free",
