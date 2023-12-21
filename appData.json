@@ -5028,6 +5028,46 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/SRtrF8tQ/Grid-Art-20221015-184942639.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/NGQPXk6X/Grid-Art-20221015-184942639.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/bwS6PCh7/Grid-Art-20221015-105310685.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/dw4g8pSV/Grid-Art-20221015-105310685.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/nhzt86Tn/tan-kaninthanond-b9s-DRqom-Yu-A-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/mB3Z94H1/tan-kaninthanond-b9s-DRqom-Yu-A-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/SscB7qQf/pawel-czerwinski-u-Ey4-Mo-H-vq-A-01-01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/sVL3zDtq/pawel-czerwinski-u-Ey4-Mo-H-vq-A-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/wvtMFq3q/IMG-5148.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Ink/",
+			"dlink": "https://i.postimg.cc/nH2mFMJD/IMG-5148.jpg"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/D0PKFhtw/pawel-czerwinski-PN5-EMLmz-L0-01-01.jpg",
 			"category": ["Abstract"],
 			"price":"free",
