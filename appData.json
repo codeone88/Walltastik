@@ -592,6 +592,55 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/vTr2QyJ6/IMG-5670.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/386sFJ99/IMG-5670.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/RVmbg3t1/IMG-5671.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/6w4J5n5P/IMG-5671.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/MZVF00nK/IMG-5672.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/MwFJSdxR/IMG-5672.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/cLXjgsrR/IMG-5673.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/ZJShQnmM/IMG-5673.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/k4thpKws/IMG-5674.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/p20byBFw/IMG-5674.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/nLrWq6D6/IMG-5675.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/HT9C1mss/IMG-5675.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/kG3h3Gpm/IMG-5676.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/zzVmhRwV/IMG-5676.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/52m9bHDK/exclusive60.png",
 					"price":"paid",
 					"dsource": "img/Collections/Abstract/",
@@ -3212,6 +3261,69 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/1zCy46w7/IMG-5464.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/Ypk0nz97/IMG-5464.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/SKNyyV2z/IMG-5466.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/TTnhJ4TQ/IMG-5466.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/QdD8zjjm/IMG-5495.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/7wG5fLcF/IMG-5495.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/tRLChhfL/IMG-5496.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/ZZqBzHLK/IMG-5496.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/xjk1Jssv/IMG-5500.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/jTcw1mPF/IMG-5500.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/L6L4vJFh/IMG-5503.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/R9b3StP1/IMG-5503.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/yx3t13yR/IMG-5505.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/fz8Nvx38/IMG-5505.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/4nCMm4WS/IMG-5506.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/66TNbynt/IMG-5506.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/KzzCWHKJ/IMG-5509.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/CFHYRywT/IMG-5509.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/hj5NR1Tg/IMG-5510.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Desktop/",
@@ -5180,6 +5292,46 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/nzpTvnDx/ryan-loughlin-d1ysg3qz2xs-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/3KD6QRrk/ryan-loughlin-d1ysg3qz2xs-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/7YWBpvp1/renato-ramos-puma-s-Vteh-KOe8w-01-01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/B4qdP4pz/renato-ramos-puma-s-Vteh-KOe8w-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/pXTGGV1X/renato-ramos-puma-Lc8h5-CAR3-V8-01-01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/9VP6frdT/renato-ramos-puma-Lc8h5-CAR3-V8-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/j288xBCb/renato-ramos-puma-k-DW-k-Sx-Et0-01-01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/QNDvb33H/renato-ramos-puma-k-DW-k-Sx-Et0-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/vTr2QyJ6/IMG-5670.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Abstract/",
+			"dlink": "https://i.postimg.cc/386sFJ99/IMG-5670.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/8kwXmf40/renato-ramos-puma-4-W8-Ow-A3vdy-Q-01-01.jpg",
