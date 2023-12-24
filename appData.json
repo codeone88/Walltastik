@@ -1,7 +1,7 @@
 {
 	"active":true,
-	"freeDays": false,
-	"banners": false,
+	"freeDays": true,
+	"banners": true,
 	"promo":{
 		"active": false,
 		"data": [
