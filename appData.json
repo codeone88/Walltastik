@@ -1440,6 +1440,110 @@
 			]
 		},
 		{
+			"title": "Tech",
+			"collection": "tech",
+			"wallpapers": [
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/KzB0P5vR/internals.png",
+					"price":"paid",
+					"dsource": "img/Collections/Tech/",
+					"dlink": "https://i.postimg.cc/jskBr8pQ/internals.png"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/qR35mTQB/ipod.png",
+					"price":"paid",
+					"dsource": "img/Collections/Tech/",
+					"dlink": "https://i.postimg.cc/08W1y5wS/ipod.png"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/D0QYTPtt/ps5.png",
+					"price":"paid",
+					"dsource": "img/Collections/Tech/",
+					"dlink": "https://i.postimg.cc/BSRW2hNQ/ps5.png"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/7hrQdWQ3/ps5-2.png",
+					"price":"paid",
+					"dsource": "img/Collections/Tech/",
+					"dlink": "https://i.postimg.cc/BSj9LWTV/ps5-2.png"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/NjjC3Tbz/snes.png",
+					"price":"paid",
+					"dsource": "img/Collections/Tech/",
+					"dlink": "https://i.postimg.cc/wgXKsQNg/snes.png"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/BZ2zHJXM/snes-alt.png",
+					"price":"paid",
+					"dsource": "img/Collections/Tech/",
+					"dlink": "https://i.postimg.cc/Fv6QtRm5/snes-alt.png"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/hPg50Nmg/snes-alt2.png",
+					"price":"paid",
+					"dsource": "img/Collections/Tech/",
+					"dlink": "https://i.postimg.cc/6wGxBX57/snes-alt2.png"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/vHzS2X7n/snes-dark.png",
+					"price":"paid",
+					"dsource": "img/Collections/Tech/",
+					"dlink": "https://i.postimg.cc/dwPP1xL5/snes-dark.png"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/CKZP1g3C/switch.png",
+					"price":"paid",
+					"dsource": "img/Collections/Tech/",
+					"dlink": "https://i.postimg.cc/zq79xDpQ/sw-itch.png"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/wj44gvGT/switch-2.png",
+					"price":"paid",
+					"dsource": "img/Collections/Tech/",
+					"dlink": "https://i.postimg.cc/CwS3CnCD/sw-itch-2.png"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/DztC4Nh9/tactigon.png",
+					"price":"paid",
+					"dsource": "img/Collections/Tech/",
+					"dlink": "https://i.postimg.cc/RM02yrDZ/tactigon.png"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/J41pXZwz/watch.png",
+					"price":"paid",
+					"dsource": "img/Collections/Tech/",
+					"dlink": "https://i.postimg.cc/37GVPFnm/watch.png"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/5NnnSy1q/xbox1.png",
+					"price":"paid",
+					"dsource": "img/Collections/Tech/",
+					"dlink": "https://i.postimg.cc/2rfMmLKJ/xbox1.png"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/44v8nwS0/xbox1-2.png",
+					"price":"paid",
+					"dsource": "img/Collections/Tech/",
+					"dlink": "https://i.postimg.cc/MWVVjxQW/IMG-4941.jpg"
+				}
+			]
+		},
+		{
 			"title": "From Space",
 			"collection": "space",
 			"wallpapers": [
@@ -5404,6 +5508,46 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/HsnZH88H/steady-hand-co-kg-Eloi-Kht-OA-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/PhzBWmtL/steady-hand-co-kg-Eloi-Kht-OA-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/0QvXqtDH/solen-feyissa-c-OSf-Vyx-CSng-01-01.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/zJbsK6B5/solen-feyissa-c-OSf-Vyx-CSng-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/436wwzqv/delaney-van-n-I5-Dv0x-MF2-M-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/4XMMfP10/delaney-van-n-I5-Dv0x-MF2-M-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/QdWfKLqy/ali-dadras-Oy-UNJ3-Cz-Gu-I-01-01.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/bpmWMpSp/ali-dadras-Oy-UNJ3-Cz-Gu-I-01-01.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/BZ2zHJXM/snes-alt.png",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Tech/",
+			"dlink": "https://i.postimg.cc/Fv6QtRm5/snes-alt.png"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/7Pmspn6m/ali-dadras-g4to-u705u-U-01-01.jpg",
