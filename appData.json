@@ -2800,6 +2800,62 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/dQnJq67Y/IMG-5229.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/YkB0zyMh/IMG-5229.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/zXB83hWR/IMG-5456.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/syPX69gK/IMG-5456.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/zfmrdPQn/IMG-5457.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/RvhZZkQb/IMG-5457.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/RZJmLzgS/IMG-5458.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/9CJfVmT7/IMG-5458.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/28KmW5F9/IMG-5459.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/TfRPZLyx/IMG-5459.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/ZR4hmv4n/IMG-5460.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/Gcs3kvfF/IMG-5460.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/Wz9VXpR3/IMG-5467.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/fWsbWkBx/IMG-5467.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/HL5pdCMZ/IMG-5502.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/nnSMKFhJ/IMG-5502.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/L6vbKQHt/IMG-4985.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Portraits/",
@@ -5900,6 +5956,46 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/vZMfnWgs/rohit-choudhari-puy-FW4f-OJc-unsplash.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/R4JRjdvN/rohit-choudhari-puy-FW4f-OJc-unsplash.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/hvdTLs1S/polina-kondrashova-f-S6eilo-FX-w-unsplash.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/2kHGfXqB/polina-kondrashova-f-S6eilo-FX-w-unsplash.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/nz6Qh7bN/nick-brunner-LXsp-KUjsg-H0-unsplash.jpg",
+			"category": ["AI"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/gz0y4qMc/nick-brunner-LXsp-KUjsg-H0-unsplash.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Kc6nGXm4/mo-nm8b-BUnzuk-unsplash.jpg",
+			"category": ["Retro"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/q0RQG0Yc/mo-nm8b-BUnzuk-unsplash.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/28KmW5F9/IMG-5459.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Portraits/",
+			"dlink": "https://i.postimg.cc/TfRPZLyx/IMG-5459.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/nz5q9g7R/ferhat-deniz-fors-8w-Sfi-GT8ejk-unsplash.jpg",
