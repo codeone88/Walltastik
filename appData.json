@@ -61,6 +61,27 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/g0QsSmFv/IMG-5701.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/GchfpmXS/IMG-5701.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/pV8GShdy/IMG-5709.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/S41BJcFL/IMG-5709.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/ZKS7zb9H/IMG-5712.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/rcdvWzMB/IMG-5712.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/PqR3g1Zv/IMG-5716.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Daily/",
@@ -5525,6 +5546,76 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/MGXtCPJG/IMG-5362.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/4XQMhq8p/IMG-5362.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/kgTfhrZZ/IMG-5363.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/Fh48zNx9/IMG-5363.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/1RF7Rjnn/IMG-5511.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/QD42mLjb/IMG-5511.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/tTZSxrBc/IMG-5512.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/csTVP2wd/IMG-5512.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/G2WMJkNm/IMG-5513.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/ZbR1mHxp/IMG-5513.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/mr6phxyM/IMG-5515.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/qkpPb4tm/IMG-5515.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/CLVPRskv/IMG-5548.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/8D7qny5V/IMG-5548.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/Qd8fbN61/IMG-5549.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/DnsR78Lj/IMG-5549.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/3N2tLk5C/IMG-5550.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/SSvHx9g5/IMG-5550.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/RVQPKJTv/IMG-5584.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/gd1f9vXL/IMG-5584.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/NFcDRfkV/IMG-4973.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Shadows/",
@@ -5956,6 +6047,30 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Pr11N6qy/yusuf-u-tt-I4-Nxp-Iy-U-unsplash.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/mR5jXJfv/yusuf-u-tt-I4-Nxp-Iy-U-unsplash.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/cJknP2Dx/simon-lee-Hm-Nmpn-IZl-U0-unsplash.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/LH23gML1/simon-lee-Hm-Nmpn-IZl-U0-unsplash.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/G2WMJkNm/IMG-5513.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Shadows/",
+			"dlink": "https://i.postimg.cc/ZbR1mHxp/IMG-5513.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/vZMfnWgs/rohit-choudhari-puy-FW4f-OJc-unsplash.jpg",
