@@ -2255,6 +2255,62 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/nzwVQ61y/IMG-4994.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/xf9XBQN1/IMG-4994.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/CxHF4ZNH/IMG-4995.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/vbCcbfxj/IMG-4995.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/WpHtDJWd/IMG-5012.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/37KGcX2F/IMG-5012.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/W1PNrmM1/IMG-5013.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/Gd4HWqtG/IMG-5013.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/KvTcRp3W/IMG-5022.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/YknvDJrt/IMG-5022.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/FF8sFXzc/IMG-5023.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/MxKcDW8s/IMG-5023.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/vZ91wHvc/IMG-5077.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/6tbCR82L/IMG-5077.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/26Hy7qCX/IMG-5115.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/gzphdRQd/IMG-5115.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/RFJmZLKS/IMG-5494.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Ink/",
@@ -6124,6 +6180,46 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/mk8gLLNR/Grid-Art-20230121-092248290.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/9XjRBzD4/Grid-Art-20230121-092248290.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/XqVv6G5Q/Grid-Art-20230121-092120724.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/cx3tYfLy/Grid-Art-20230121-092120724.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Kvp8CY8D/Grid-Art-20230121-092019728.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/R44J66ry/Grid-Art-20230121-092019728.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Wpn368RK/Grid-Art-20230110-132722939.jpg",
+			"category": ["Retro"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/X3MCW1sV/Grid-Art-20230110-132722939.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/KvTcRp3W/IMG-5022.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Ink/",
+			"dlink": "https://i.postimg.cc/YknvDJrt/IMG-5022.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/YCQ3vBKY/steampunk-post-apocalyptic-mars-world-young-man-with-a-g-1112023.png",
