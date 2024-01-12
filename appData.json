@@ -61,6 +61,27 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/HkBZjGVF/IMG-5871.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/WsPQWTjp/IMG-5871.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/Xvq2C25q/IMG-5874.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/GbJ66VhF/IMG-5874.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/Dw2p2fyq/IMG-5875.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/pRjwJyw1/IMG-5875.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/Hs0PD8HY/IMG-5925.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Daily/",
@@ -800,6 +821,41 @@
 			"title": "No Forms",
 			"collection": "abstract",
 			"wallpapers":[
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/tJ5Y6sc7/IMG-5940.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/dQMdzdmR/IMG-5940.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/FsTYsJcB/IMG-5970.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/2rDhGQ5r/IMG-5970.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/gJbJByFn/IMG-5974.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/PtPwJKSz/IMG-5974.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/FKLzZW6M/IMG-5989.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/Qj67jvJd/IMG-5989.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/mD7cbXNY/IMG-5990.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/r8P5N7DP/IMG-5990.jpg"
+				},
 				{
 					"user": "Walltastik",
 					"link": "https://i.postimg.cc/NFx07xM6/IMG-5365.jpg",
@@ -6432,6 +6488,46 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/9Xb2Xr2L/AKIRA-LEGO-0001-1170x2535.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/0xRyfwB1/AKIRA-LEGO-0001-1170x2535.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/263h6DDX/Grid-Art-20230228-114815842.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/W2wn5Nfj/Grid-Art-20230228-114815842.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Bvm24vdK/Grid-Art-20230228-114758833.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/NgcD89Dp/Grid-Art-20230228-114758833.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/1XqFGr4G/Grid-Art-20230228-114700438.jpg",
+			"category": ["Landscape"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/TdkcXk64/Grid-Art-20230228-114700438.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/gJbJByFn/IMG-5974.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Abstract/",
+			"dlink": "https://i.postimg.cc/PtPwJKSz/IMG-5974.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/pyMFq5ng/Grid-Art-20230228-114641245.jpg",
