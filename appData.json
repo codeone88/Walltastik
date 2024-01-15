@@ -61,6 +61,27 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/Rh7GByks/IMG-5843.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/1mTdpZJQ/IMG-5843.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/cJzFMQ7m/IMG-5869.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/XVjtWLpT/IMG-5869.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/QCGSvhyK/IMG-5870.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/sj18Q2Pm/IMG-5870.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/HkBZjGVF/IMG-5871.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Daily/",
@@ -4981,6 +5002,34 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/hv1vW5rL/IMG-5616.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/CuteAnimals/",
+					"dlink": "https://i.postimg.cc/sjthSFGN/IMG-5616.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/CLwdHwhm/IMG-5617.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/CuteAnimals/",
+					"dlink": "https://i.postimg.cc/gdZRp0fF/IMG-5617.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/xjvczX2X/IMG-5906.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/CuteAnimals/",
+					"dlink": "https://i.postimg.cc/gp5R1htH/IMG-5906.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/pXkrs3yx/IMG-5907.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/CuteAnimals/",
+					"dlink": "https://i.postimg.cc/PTnD5jjL/IMG-5907.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/SR62pY5V/IMG-4897.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/CuteAnimals/",
@@ -6488,6 +6537,30 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/85jgQ8qy/Grid-Art-20230318-121751705.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/bzRynpLj/Grid-Art-20230318-121751705.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/jqBtT5qy/fomstock-r-Zbq-Ws-XYLTA-1.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/hgtj9zHZ/fomstock-r-Zbq-Ws-XYLTA-1.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/PqfkyvKn/daniel-j-schwarz-Zi-Gljg6-HQ-1.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/cdw4sQnC/daniel-j-schwarz-Zi-Gljg6-HQ-1.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/9Xb2Xr2L/AKIRA-LEGO-0001-1170x2535.jpg",
