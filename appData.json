@@ -61,6 +61,27 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/g2Ssmv7W/IMG-5833.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/Gbr5PKJH/IMG-5833.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/v8f0fx4r/IMG-5838.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/sz0bFpyN/IMG-5838.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/ydSvfkvz/IMG-5841.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/2z0MSW-W3/IMG-5841.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/Rh7GByks/IMG-5843.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Daily/",
@@ -2393,6 +2414,41 @@
 			"title": "Ink SkTech",
 			"collection": "ink",
 			"wallpapers":[
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/PqTkMXBd/IMG-6108.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/TTWYfh05/IMG-6108.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/RhyB1czY/IMG-6109.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/xjT12Rp9/IMG-6109.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/YSRBDcHY/IMG-6137.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/HpDWxHvZ/IMG-6137.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/MGmzkMyc/IMG-6139.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/jRG27y2h/IMG-6139.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/vZ9QzSTt/IMG-6174.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/B47XJrGk/IMG-6174.jpg"
+				},
 				{
 					"user": "Walltastik",
 					"link": "https://i.postimg.cc/nzwVQ61y/IMG-4994.jpg",
@@ -6537,6 +6593,46 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/sfMsbSzV/Grid-Art-20230318-133642625.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/VwRvrBHb/Grid-Art-20230318-133642625.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/wTK8PGFV/Grid-Art-20230318-121843253.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/X3qjZMCT/Grid-Art-20230318-121843253.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/GhYrmC9V/Grid-Art-20230318-121828886.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/k9Y5wMCJ/Grid-Art-20230318-121828886.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/GhYrmC9V/Grid-Art-20230318-121828886.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/k9Y5wMCJ/Grid-Art-20230318-121828886.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/YSRBDcHY/IMG-6137.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Ink/",
+			"dlink": "https://i.postimg.cc/HpDWxHvZ/IMG-6137.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/85jgQ8qy/Grid-Art-20230318-121751705.jpg",
