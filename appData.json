@@ -61,6 +61,27 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/bvZTJZX2/IMG-5813.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/FhZnTSDG/IMG-5813.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/TYcQH8qh/IMG-5814.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/6wkSqt8V/IMG-5814.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/RZVdkPXd/IMG-5817.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/mB7nFJ9v/IMG-5817.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/g2Ssmv7W/IMG-5833.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Daily/",
@@ -3092,6 +3113,41 @@
 			"title": "Portraits",
 			"collection": "portraits",
 			"wallpapers":[
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/JnqnSxr0/IMG-6053.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/XjMCG1tf/IMG-6053.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/jqM2XM3k/IMG-6054.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/tyj69f3y/IMG-6054.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/Y0C97F03/IMG-6055.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/jxzJzQrG/IMG-6055.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/N0RLkYZ1/IMG-6056.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/vGN9MZzS/IMG-6056.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/13n84DH7/IMG-6127.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/NBbmJ4rt/IMG-6127.jpg"
+				},
 				{
 					"user": "Walltastik",
 					"link": "https://i.postimg.cc/dQnJq67Y/IMG-5229.jpg",
@@ -6593,6 +6649,30 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/W3CLsWVs/mauro-lima-8in-Yh-CYe-MKg-1.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/Dvy2dHY4/mauro-lima-8in-Yh-CYe-MKg-1.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/QdJ3cJQq/masahiro-miyagi-RJe-YWlmks-GI-1.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/q49vVmgW/masahiro-miyagi-RJe-YWlmks-GI-1.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/L41GzVRZ/Grid-Art-20230326-103251670.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/S4TqbZvV/Grid-Art-20230326-103251670.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/sfMsbSzV/Grid-Art-20230318-133642625.jpg",
