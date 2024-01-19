@@ -61,6 +61,27 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/NjJ0R0q0/IMG-6200.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/2CmBRq0n/IMG-6200.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/wMXvNcgK/IMG-6223.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/fzF06BPb/IMG-6223.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/QxDV3PJj/IMG-6224.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/2mbW4NqL/IMG-6224.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/Wzv6XSdM/IMG-5805.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Daily/",
@@ -905,6 +926,41 @@
 			"title": "No Forms",
 			"collection": "abstract",
 			"wallpapers":[
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/PxbxGLTK/IMG-5902.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/HpR7y5KG/IMG-5902.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/QNkBwzMs/IMG-5931.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/74jgG88C/IMG-5931.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/2ym13Q2P/IMG-5936.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/XjBdHxF7/IMG-5936.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/ncFsJ1sm/IMG-5938.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/HH5bbZd6/IMG-5938.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/Z50C9KxK/IMG-5939.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/mByM5PcM/IMG-5939.jpg"
+				},
 				{
 					"user": "Walltastik",
 					"link": "https://i.postimg.cc/tJ5Y6sc7/IMG-5940.jpg",
@@ -6726,6 +6782,38 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/6Q46Qrsh/IMG-6761.jpg",
+			"category": ["Landscape"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/2C212G2g/IMG-6761.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/L8b6RyWX/IMG-6760.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/6B97rgLd/IMG-6760.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/4x5DYNGL/willian-justen-de-vasconcellos-DG7x7m4p-QJU-1.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/9c5CNrnh/willian-justen-de-vasconcellos-DG7x7m4p-QJU-1.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/2ym13Q2P/IMG-5936.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/Abstract/",
+			"dlink": "https://i.postimg.cc/XjBdHxF7/IMG-5936.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/W3CLsWVs/mauro-lima-8in-Yh-CYe-MKg-1.jpg",
