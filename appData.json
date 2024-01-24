@@ -61,6 +61,27 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/ZKJYgNJR/IMG-6085.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/vMV147jW/IMG-6085.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/7hnHhHnw/IMG-6086.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/HYfVSjJc/IMG-6086.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/D0Tf7Jsx/IMG-6087.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/hDJXbVGR/IMG-6087.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/Y9gqcf44/IMG-6165.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Daily/",
@@ -4415,6 +4436,41 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/nc1g9Mj9/IMG-5837.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/z8mrMgq7/IMG-5837.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/65KFQC3N/IMG-5862.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/BsP3Mgft/IMG-5862.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/Znt2pdxp/IMG-5863.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/pWpvNQ9G/IMG-5863.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/TwWBK9gT/IMG-5890.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/HpSmPvL8/IMG-5890.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/SxS0gcFG/IMG-5895.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/q4nkMG1W/IMG-5895.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/wj0CZ39Y/IMG-5904.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Desktop/",
@@ -5708,6 +5764,34 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/PJgv5SBy/IMG-5775.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/LoFi/",
+					"dlink": "https://i.postimg.cc/Y2968VR5/IMG-5775.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/sxQZzk01/IMG-5800.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/LoFi/",
+					"dlink": "https://i.postimg.cc/rVgG1c1G/IMG-5800.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/RFbnjSdj/IMG-5802.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/LoFi/",
+					"dlink": "https://i.postimg.cc/hDKbQhdP/IMG-5802.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/ydNZQgmm/IMG-5924.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/LoFi/",
+					"dlink": "https://i.postimg.cc/MW7mG1XF/IMG-5924.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/h459Yr3f/IMG-5928.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/LoFi/",
@@ -6957,6 +7041,38 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/vmsc78Cp/IMG-1158.jpg",
+			"category": ["Retro"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/NQymc5Df/IMG-1158.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/1zr4vhQ4/IMG-1157.jpg",
+			"category": ["Retro"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/09Lm2PXG/IMG-1157.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/fWcLXfV2/IMG-6771.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/yK5SMfsH/IMG-6771.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/sxQZzk01/IMG-5800.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Collections/LoFi/",
+			"dlink": "https://i.postimg.cc/rVgG1c1G/IMG-5800.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/vTtZsGRF/IMG-6770.jpg",
