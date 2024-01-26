@@ -61,6 +61,27 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/PJjm3HyR/IMG-6306.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/SSXDKNMk/IMG-6306.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/0jPwGf2g/IMG-6323.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/zzRFrtsf/IMG-6323.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/PfWbLLrs/IMG-6380.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/S45gv8Bs/IMG-6380.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/rwmVyL02/IMG-6057.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Daily/",
@@ -2142,6 +2163,34 @@
 			"title": "From Space",
 			"collection": "space",
 			"wallpapers": [
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/4ydFRQP6/IMG-5738.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "https://i.postimg.cc/kJFr8jtp/IMG-5738.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/Wbdf9Shj/IMG-5765.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "https://i.postimg.cc/gdsF2Tpw/IMG-5765.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/wxfGcnx0/IMG-5768.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "https://i.postimg.cc/sysCyRkd/IMG-5768.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/pTVsKJgw/IMG-5836.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "https://i.postimg.cc/BqHR9hNn/IMG-5836.jpg"
+				},
 				{
 					"user": "Walltastik",
 					"link": "https://i.postimg.cc/N0kNyzP8/IMG-5996.jpg",
@@ -4490,6 +4539,41 @@
 			"title": "iPad & Desktop",
 			"collection": "desktop",
 			"wallpapers":[
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/vTtqnSBw/IMG-5794.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/4frrrDRy/IMG-5794.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/k48hJ5P4/IMG-5795.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/p21NB90D/IMG-5795.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/BvjVzgh2/IMG-5801.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/cdhGrkwk/IMG-5801.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/mrK5WHqJ/IMG-5808.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/F9K5cbxr/IMG-5808.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/sgD8Yy76/IMG-5834.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/WTMvP13v/IMG-5834.jpg"
+				},
 				{
 					"user": "Walltastik",
 					"link": "https://i.postimg.cc/nc1g9Mj9/IMG-5837.jpg",
@@ -7097,6 +7181,30 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/FFWkt4JL/IMG-1164.jpg",
+			"category": ["Landscape"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/ZZZ8dYbV/IMG-1164.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/WbxD3w8p/IMG-1163.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/dwVG5WTC/IMG-1163.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/CxDRfnrG/IMG-1162.jpg",
+			"category": ["AI"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/1s7w2ppj/IMG-1162.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/MKnMqFyr/IMG-1161.jpg",
