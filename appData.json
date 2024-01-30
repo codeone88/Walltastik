@@ -61,6 +61,27 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/FsFS7DB3/IMG-6237.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/51LSKr57/IMG-6237.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/hvs72dfX/IMG-6239.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/2jRF8dY7/IMG-6239.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/MTkRHwCp/IMG-6241.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/J10QT4KZ/IMG-6241.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/h41xDHpK/IMG-6277.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Daily/",
@@ -1052,6 +1073,41 @@
 			"title": "No Forms",
 			"collection": "abstract",
 			"wallpapers":[
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/QCxjR06x/IMG-5735.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/9myzwkZT/IMG-5735.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/W372WQwH/IMG-5889.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/VYxd6wrm/IMG-5889.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/DZhvc2LG/IMG-5891.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/4J7Ysy3W/IMG-5891.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/PqYfZLph/IMG-5894.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/33bksm3y/IMG-5894.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/GmZhHPpq/IMG-5896.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/HTLJvB1D/IMG-5896.jpg"
+				},
 				{
 					"user": "Walltastik",
 					"link": "https://i.postimg.cc/nhshFSnX/IMG-5897.jpg",
@@ -4562,6 +4618,27 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/FRjDtn0k/IMG-5747.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/69PSvk3c/IMG-5747.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/fL4BrhSh/IMG-5753.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/W2zCtN2t/IMG-5753.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/02ZX23Fp/IMG-5767.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/TfvzQvcH/IMG-5767.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/7Z6sC9rj/IMG-5779.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Desktop/",
@@ -7251,6 +7328,30 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/L5znTTcQ/IMG-2891.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/M6LVz3dw/IMG-2891.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/zfBHrTh3/IMG-2884.jpg",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/pPQfKZXQ/IMG-2884.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/YqH4S5F5/IMG-2877.jpg",
+			"category": ["Retro"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/51H8s122/IMG-2877.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/h4xzcDX8/IMG-1194.jpg",
