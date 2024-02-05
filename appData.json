@@ -61,6 +61,27 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/4xHs9FVW/IMG-6466.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/KxJzC6zh/IMG-6466.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/QMLskkqh/IMG-6467.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/x98CQ6JJ/IMG-6467.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/RVDvqz63/IMG-6471.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/Dn20jv7c/IMG-6471.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/286zz56R/IMG-6473.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Daily/",
@@ -3568,6 +3589,41 @@
 			"title": "Portraits",
 			"collection": "portraits",
 			"wallpapers":[
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/TwR2jbV6/IMG-5647.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/NgXyc7L5/IMG-5647.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/k4fJT5st/IMG-5706.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/L9MJ6YZv/IMG-5706.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/zvvJ6122/IMG-5707.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/kJFBVJQC/IMG-5707.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/7LrZ6dbb/IMG-5720.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/QjH96r3g/IMG-5720.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/tCfT0Yj3/IMG-5737.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/z8DRgg2c/IMG-5737.jpg"
+				},
 				{
 					"user": "Walltastik",
 					"link": "https://i.postimg.cc/wjmB9gqS/IMG-5749.jpg",
@@ -7447,6 +7503,30 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/1R0NRVLD/IMG-1237.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/cW27mQhk/IMG-1237.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/ZRKCsw5H/Grid-Art-20221210-210155210.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/2znh6Jps/Grid-Art-20221210-210155210.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/XvgrgR4X/Grid-Art-20221210-210139743.jpg",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/8T2LTGYd/Grid-Art-20221210-210139743.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/0y5bY7cZ/IMG-8309.jpg",
