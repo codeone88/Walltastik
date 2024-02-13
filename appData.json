@@ -61,6 +61,27 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/Qxsf5B7w/IMG-6389.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/fZSpGmRz/IMG-6389.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/76WK0XgN/IMG-6391.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/hDSNF5vN/IMG-6391.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/nVWWDV2t/IMG-6392.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/37rQzdDW/IMG-6392.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/Bn9wmhRY/IMG-6395.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Daily/",
@@ -1220,6 +1241,41 @@
 			"title": "No Forms",
 			"collection": "abstract",
 			"wallpapers":[
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/0N2RTQw8/IMG-6528.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/t9FqVnRV/IMG-6528.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/pXzH83vt/IMG-6551.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/6w1psN1T/IMG-6551.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/8zbgXWsK/IMG-6572.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/HdqWx9mg/IMG-6572.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/MTnkGF5N/IMG-6577.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/9WpcL37m/IMG-6577.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/5t7dbVB8/IMG-6629.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/hSgS84hZ/IMG-6629.jpg"
+				},
 				{
 					"user": "Walltastik",
 					"link": "https://i.postimg.cc/QCxjR06x/IMG-5735.jpg",
@@ -7727,6 +7783,22 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/J47sxnSQ/i-OS-16-Depth-Effect-Wallpaper-1-by-YTECHB.jpg",
+			"category": ["Freemium"],
+			"price":"freemium",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/NYmRg24Z/i-OS-16-Depth-Effect-Wallpaper-1-by-YTECHB.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/wBRmpFBq/IMG-1407.jpg",
+			"category": ["Landscape"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/NQp7RzqH/IMG-1407.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/52RCTDbK/IMG-1406.jpg",
