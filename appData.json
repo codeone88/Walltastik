@@ -4961,6 +4961,27 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/bv1QdSrK/IMG-5659.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/hK5My9BP/IMG-5659.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/6pkr9fWr/IMG-5660.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/Gb2qxX65/IMG-5660.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/L8YkKbp4/IMG-5703.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Desktop/",
+					"dlink": "https://i.postimg.cc/Dn5xG9pG/IMG-5703.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/7YLMXLt2/IMG-5704.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Desktop/",
@@ -7198,6 +7219,34 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/Z5szNgVT/IMG-6262.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/dJwsbcCT/IMG-6262.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/VLR8f5t0/IMG-6354.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/Tf8YcDY0/IMG-6354.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/JzzWGm36/IMG-6355.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/vbW82Z4s/IMG-6355.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/T1JZ3HKv/IMG-6358.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/1mkPMkPX/IMG-6358.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/MKwTJPqr/IMG-5622.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Shadows/",
@@ -7783,6 +7832,30 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/KjTffGVF/ggg1106.png",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/Td7sRhJy/ggg1106.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/tggzftfB/ggg1105.png",
+			"category": ["Photography"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/XnfDrsg6/ggg1105.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/nhp2Kt1b/ggg1104.png",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/SkzPhS2s/ggg1104.png"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/J47sxnSQ/i-OS-16-Depth-Effect-Wallpaper-1-by-YTECHB.jpg",
