@@ -61,6 +61,27 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/507ZpR4w/IMG-6657.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/Vfmmfx2H/IMG-6657.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/8cxxgfrc/IMG-6658.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/CMK0DjhG/IMG-6658.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/hP7HbsHd/IMG-6669.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/FmPNvnpD/IMG-6669.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/MGx2GB3j/IMG-6671.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/Daily/",
@@ -6220,6 +6241,34 @@
 			"wallpapers":[
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/9MM41qv0/IMG-6491.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/CuteAnimals/",
+					"dlink": "https://i.postimg.cc/nHKvF424/IMG-6491.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/mrT1znjQ/IMG-6492.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/CuteAnimals/",
+					"dlink": "https://i.postimg.cc/8T6R3Qrn/IMG-6492.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/rmPDHwkJ/IMG-6493.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/CuteAnimals/",
+					"dlink": "https://i.postimg.cc/kJnWB2Yk/IMG-6493.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/kM2sgVB7/IMG-6494.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/CuteAnimals/",
+					"dlink": "https://i.postimg.cc/MwDFtVwf/IMG-6494.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/hv1vW5rL/IMG-5616.jpg",
 					"price":"paid",
 					"dsource": "img/Collections/CuteAnimals/",
@@ -7881,6 +7930,30 @@
 	  }
    	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/KYs5y3hx/ggg1112.png",
+			"category": ["Abstract"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/gYGt83MX/ggg1112.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/nh2k0wds/ggg1111.png",
+			"category": ["AI"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/s3dNfk7J/ggg1111.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Kc30xfYV/ggg1110.png",
+			"category": ["AI"],
+			"price":"free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/wz0Z5bY6/ggg1110.png"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/jdVZ5fwj/ggg1109.png",
