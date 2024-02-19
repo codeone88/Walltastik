@@ -56,9 +56,71 @@
 	],
 	"collections": [
 		{
+			"title": "Exclusive Free",
+			"collection": "exclusiveFree",
+			"wallpapers":[
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/bYgQJWK3/IMG-6100.jpg",
+					"price":"free",
+					"dsource": "img/Collections/exclusiveFree/",
+					"dlink": "https://i.postimg.cc/vMFXPdXF/IMG-6100.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/XJ0wGbjD/IMG-6098.jpg",
+					"price":"free",
+					"dsource": "img/Collections/exclusiveFree/",
+					"dlink": "https://i.postimg.cc/Hpr3NYfH/IMG-6098.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/0Qd77Br5/IMG-6097.jpg",
+					"price":"free",
+					"dsource": "img/Collections/exclusiveFree/",
+					"dlink": "https://i.postimg.cc/QXvSZL37/IMG-6097.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/1XmwBrNG/IMG-6095.jpg",
+					"price":"free",
+					"dsource": "img/Collections/exclusiveFree/",
+					"dlink": "https://i.postimg.cc/Vfmmfx2H/IMG-6657.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/8CvRz5S6/IMG-6096.jpg",
+					"price":"free",
+					"dsource": "img/Collections/exclusiveFree/",
+					"dlink": "https://i.postimg.cc/09WcZMXc/IMG-6096.jpg"
+				}
+			]
+		},
+		{
 			"title": "Daily",
 			"collection": "daily",
 			"wallpapers":[
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/RZ52PfBb/IMG-6620.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/dwLvVmSv/IMG-6620.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/SsNB6hhS/IMG-6623.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/7xgqyHt2/IMG-6623.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/2y1gt7yg/IMG-6624.jpg",
+					"price":"paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/8p4DjySk/IMG-6624.jpg"
+				},
 				{
 					"user": "Walltastik",
 					"link": "https://i.postimg.cc/507ZpR4w/IMG-6657.jpg",
