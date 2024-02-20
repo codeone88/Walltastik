@@ -61,6 +61,27 @@
 			"wallpapers": [
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/0jKHn5Hs/IMG-6589.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/sjTdVvYv/IMG-6589.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/QMjwD3VQ/IMG-6618.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/bqnhQYhB/IMG-6618.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/t43w8TRR/IMG-6619.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/B4k3LLdF/IMG-6619.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/RZ52PfBb/IMG-6620.jpg",
 					"price": "paid",
 					"dsource": "img/Collections/Daily/",
@@ -4381,6 +4402,41 @@
 			"wallpapers": [
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/z3mHGDYz/IMG-6168.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Aesthetic/",
+					"dlink": "https://i.postimg.cc/wxMXF3Wm/IMG-6168.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/wBFNQdL2/IMG-6243.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Aesthetic/",
+					"dlink": "https://i.postimg.cc/GcnjrLpW/IMG-6243.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/q7pnK7hg/IMG-6438.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Aesthetic/",
+					"dlink": "https://i.postimg.cc/YtWxJGtN/IMG-6438.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/wjXL3NBS/IMG-6440.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Aesthetic/",
+					"dlink": "https://i.postimg.cc/rMbJnC2F/IMG-6440.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/8cfrGJ3X/IMG-6626.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Aesthetic/",
+					"dlink": "https://i.postimg.cc/38njg2Zh/IMG-6626.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/d0H7Z39G/IMG-5702.jpg",
 					"price": "paid",
 					"dsource": "img/Collections/Aesthetic/",
@@ -7951,6 +8007,36 @@
 		}
 	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/tgrLB3dn/Futuristic-City-View-Wallpaper-for-i-OS-and-Android-1.jpg",
+			"category": [
+				"Retro"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/gYdmk4ns/Futuristic-City-View-Wallpaper-for-i-OS-and-Android-1.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/wvC4r01M/290622-wallpaper-abyss-4k.png",
+			"category": [
+				"Retro"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/cxCqrzZR/290622-wallpaper-abyss-4k.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/tTKts0gc/ggg1113.png",
+			"category": [
+				"Abstract"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/xfCsFnV9/ggg1113.png"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/bYgQJWK3/IMG-6100.jpg",
