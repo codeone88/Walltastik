@@ -61,6 +61,20 @@
 			"wallpapers": [
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/3RRqyFXW/IMG-6586.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/x0yV4sqG/IMG-6586.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/XJzz9BLL/IMG-6587.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/y11C4FSM/IMG-6587.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/0jKHn5Hs/IMG-6589.jpg",
 					"price": "paid",
 					"dsource": "img/Collections/Daily/",
@@ -3128,6 +3142,41 @@
 			"title": "Ink SkTech",
 			"collection": "ink",
 			"wallpapers": [
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/d0WjcpBY/IMG-6672.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/CF0PkVnz/IMG-6672.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/BZRN6WGZ/IMG-6739.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/Wj1y5jWZ/IMG-6739.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/FR7grpWJ/IMG-6743.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/zJkdkPTp/IMG-6743.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/vZQsrHRb/IMG-5656.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/X45Y0pQG/IMG-5656.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/9QJjJ5VT/IMG-5657.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Ink/",
+					"dlink": "https://i.postimg.cc/bqjNYpB6/IMG-5657.jpg"
+				},
 				{
 					"user": "Walltastik",
 					"link": "https://i.postimg.cc/ZKzZqxV9/IMG-5661.jpg",
@@ -8007,6 +8056,36 @@
 		}
 	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/MG0nLjwd/IMG-6140.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Collections/exclusiveFree/",
+			"dlink": "https://i.postimg.cc/w9ZD7hG8/IMG-6140.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/j5ZLx0Lf/IMG-6142.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Collections/exclusiveFree/",
+			"dlink": "https://i.postimg.cc/wqdJk9zw/IMG-6142.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Y00jjnWs/IMG-6144.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Collections/exclusiveFree/",
+			"dlink": "https://i.postimg.cc/Xjc5Ht74/IMG-6144.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/tgrLB3dn/Futuristic-City-View-Wallpaper-for-i-OS-and-Android-1.jpg",
