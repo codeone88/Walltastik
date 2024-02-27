@@ -1,6 +1,6 @@
 {
 	"active": true,
-	"freeDays": true,
+	"freeDays": false,
 	"banners": false,
 	"promo": {
 		"active": false,
@@ -59,6 +59,27 @@
 			"title": "Daily",
 			"collection": "daily",
 			"wallpapers": [
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/TYgTYT2F/IMG-6532.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/k9hGs50J/IMG-6532.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/mgSRCVHS/IMG-6534.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/X4RJMzNt/IMG-6534.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/gr9tT9f6/IMG-6535.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/bYdXdpgL/IMG-6535.jpg"
+				},
 				{
 					"user": "Walltastik",
 					"link": "https://i.postimg.cc/WpD2CMB2/IMG-6569.jpg",
@@ -8077,6 +8098,36 @@
 		}
 	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/MZ9QxRQL/IMG-6123.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Collections/exclusiveFree/",
+			"dlink": "https://i.postimg.cc/6wXLrf5B/IMG-6123.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/7YbTL61Z/IMG-6124.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Collections/exclusiveFree/",
+			"dlink": "https://i.postimg.cc/KFD7J3RB/IMG-6124.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/9FSwwh1t/IMG-6125.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Collections/exclusiveFree/",
+			"dlink": "https://i.postimg.cc/jtqH9q79/IMG-6125.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/XYCGwzzM/IMG-6126.jpg",
