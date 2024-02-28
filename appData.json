@@ -1383,6 +1383,41 @@
 			"wallpapers": [
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/6qZDr4Dh/IMG-6435.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/cxk0NQhP/IMG-6435.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/ydtM3yrd/IMG-6513.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/pWLR70fD/IMG-6513.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/sfByfv0x/IMG-6514.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/J8xhqXNN/IMG-6514.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/6pKNhz64/IMG-6524.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/ssQDs0tm/IMG-6524.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/9Xv2DCvp/IMG-6525.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/4Z3xF3Pr/IMG-6525.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/0N2RTQw8/IMG-6528.jpg",
 					"price": "paid",
 					"dsource": "img/Collections/Abstract/",
@@ -8098,6 +8133,36 @@
 		}
 	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Ss3xCMfR/andrea-de-santis-d0c5v-Z1-Ri1k-1.jpg",
+			"category": [
+				"Photography"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/0k2KgG6Y/andrea-de-santis-d0c5v-Z1-Ri1k-1.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/SKQRhqKS/allec-gomes-JJc-Ox7-Oo-Yk-1.jpg",
+			"category": [
+				"Abstract"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/MzVQ1p2Q/allec-gomes-JJc-Ox7-Oo-Yk-1.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/TYmpjCS6/aaron-burden-e3-ZVWj-Bk-As-I-1.jpg",
+			"category": [
+				"Photography"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/vM2fsKtc/aaron-burden-e3-ZVWj-Bk-As-I-1.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/MZ9QxRQL/IMG-6123.jpg",
