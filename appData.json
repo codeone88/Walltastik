@@ -61,6 +61,27 @@
 			"wallpapers": [
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/3wJhBpjQ/IMG-6522.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/t9Fg9NYJ/IMG-6522.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/KYq2szQk/IMG-6530.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/CFYx5nqN/IMG-6530.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/XYW4rtpJ/IMG-6531.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/HdcxhgmQ/IMG-6531.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/TYgTYT2F/IMG-6532.jpg",
 					"price": "paid",
 					"dsource": "img/Collections/Daily/",
@@ -4037,6 +4058,41 @@
 			"title": "Portraits",
 			"collection": "portraits",
 			"wallpapers": [
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/13rQK4s4/IMG-6508.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/WTQ1TJym/IMG-6508.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/25HNPJqD/IMG-6654.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/PtHf8nTP/IMG-6654.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/66b6RyTk/IMG-5625.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/LR2JcPS8/IMG-5625.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/mknbG60L/IMG-5626.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/qBJgyPw3/IMG-5626.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/VN9Lbgbg/IMG-5646.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Portraits/",
+					"dlink": "https://i.postimg.cc/9cK4KNm6/IMG-5646.jpg"
+				},
 				{
 					"user": "Walltastik",
 					"link": "https://i.postimg.cc/TwR2jbV6/IMG-5647.jpg",
@@ -8133,6 +8189,36 @@
 		}
 	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/cCkgmyWW/IMG-6122.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Collections/exclusiveFree/",
+			"dlink": "https://i.postimg.cc/7Pw3qwQ5/IMG-6122.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/KY9zcVKn/geronimo-giqueaux-p-Y60-Y5l00-A-1.jpg",
+			"category": [
+				"Abstract"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/XVWyL64D/geronimo-giqueaux-p-Y60-Y5l00-A-1.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/vZsD05F6/chalo-gallardo-QAh-Sbzy1-Xh-A-1.jpg",
+			"category": [
+				"Photography"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/MqcRKY9t/chalo-gallardo-QAh-Sbzy1-Xh-A-1.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/Ss3xCMfR/andrea-de-santis-d0c5v-Z1-Ri1k-1.jpg",
