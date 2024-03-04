@@ -61,6 +61,27 @@
 			"wallpapers": [
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/gc6WNGhj/IMG-6517.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/fs8RWLTc/IMG-6517.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/k4Ldqp07/IMG-6519.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/1m3RcxMV/IMG-6519.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/k42mrmhj/IMG-6520.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/4J5N94vT/IMG-6520.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/3wJhBpjQ/IMG-6522.jpg",
 					"price": "paid",
 					"dsource": "img/Collections/Daily/",
@@ -8189,6 +8210,36 @@
 		}
 	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/zBVfyjW4/hamza-nouasria-y-EZQ-U-K-vg-1.jpg",
+			"category": [
+				"Photography"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/2zxLX95j/hamza-nouasria-y-EZQ-U-K-vg-1.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/cHZn1Bhp/IMG-6120.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Collections/exclusiveFree/",
+			"dlink": "https://i.postimg.cc/tXnt5rx4/IMG-6120.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/RFRnWJbN/IMG-6121.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Collections/exclusiveFree/",
+			"dlink": "https://i.postimg.cc/38MjbgXC/IMG-6121.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/cCkgmyWW/IMG-6122.jpg",
