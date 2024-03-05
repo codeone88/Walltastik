@@ -2662,6 +2662,34 @@
 			"wallpapers": [
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/kD300Rks/IMG-6627.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "https://i.postimg.cc/G3HbskKW/IMG-6627.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/8CZV756k/IMG-6630.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "https://i.postimg.cc/hSB43Q4m/IMG-6630.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/pT7bB6Cg/IMG-6652.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "https://i.postimg.cc/VfsfzyCL/IMG-6652.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/fy94qfgk/IMG-6653.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Space/",
+					"dlink": "https://i.postimg.cc/Xj2VJ2fK/IMG-6653.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/bwTvRqtW/IMG-6364.jpg",
 					"price": "paid",
 					"dsource": "img/Collections/Space/",
@@ -8210,6 +8238,36 @@
 		}
 	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/fyShNqXT/philip-oroni-z5-KUgb-NUh-ZU-1.jpg",
+			"category": [
+				"Abstract"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/L9N4jr8f/philip-oroni-z5-KUgb-NUh-ZU-1.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/59XHyxSj/philip-oroni-g-M-QEa-PNxv8-1.jpg",
+			"category": [
+				"Abstract"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/1SHDWXg0/philip-oroni-g-M-QEa-PNxv8-1.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/z3mYXwSw/maxim-berg-jl-DK7el6s-EM-1.jpg",
+			"category": [
+				"Abstract"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/pVrWCqmS/maxim-berg-jl-DK7el6s-EM-1.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/zBVfyjW4/hamza-nouasria-y-EZQ-U-K-vg-1.jpg",
