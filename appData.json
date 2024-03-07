@@ -6884,6 +6884,34 @@
 			"wallpapers": [
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/1X3nWHBz/IMG-7017.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/LoFi/",
+					"dlink": "https://i.postimg.cc/ChjGxrfb/IMG-7017.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/cJfn666d/IMG-7018.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/LoFi/",
+					"dlink": "https://i.postimg.cc/PdRz3wjv/IMG-7018.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/RZktMwSP/IMG-7019.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/LoFi/",
+					"dlink": "https://i.postimg.cc/Vz6WWF3c/IMG-7019.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/RZ6f5gB6/IMG-7020.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/LoFi/",
+					"dlink": "https://i.postimg.cc/6tzhZPb0/IMG-7020.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/52qQfqp5/IMG-5721.jpg",
 					"price": "paid",
 					"dsource": "img/Collections/LoFi/",
@@ -8261,9 +8289,39 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/1zKNVHsW/ggg1137.png",
+			"category": [
+				"AI"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/zqsw-MtM1/ggg1137.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/9Fv960LB/ggg1136.png",
+			"category": [
+				"AI"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/ysNTSS92/ggg1136.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/MpVBqw4J/ggg1135.png",
+			"category": [
+				"AI"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/WTfwmbwz/ggg1135.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/hGVmq5L8/IMG-6118.jpg",
 			"category": [
-				"Abstract"
+				"Freemium"
 			],
 			"price": "free",
 			"dsource": "img/Collections/exclusiveFree/",
@@ -8273,7 +8331,7 @@
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/D0w4Lft5/IMG-6119.jpg",
 			"category": [
-				"Abstract"
+				"Freemium"
 			],
 			"price": "free",
 			"dsource": "img/Collections/exclusiveFree/",
