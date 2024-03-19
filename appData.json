@@ -7115,6 +7115,27 @@
 			"wallpapers": [
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/YSB4ckRZ/IMG-6840.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/LoFi/",
+					"dlink": "https://i.postimg.cc/Cwzbqxqh/IMG-6840.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/4x9KFn6p/IMG-6846.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/LoFi/",
+					"dlink": "https://i.postimg.cc/2rH4yZ39/IMG-6846.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/hPwzrVdS/IMG-7011.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/LoFi/",
+					"dlink": "https://i.postimg.cc/WTpGsnpJ/IMG-7011.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/X7XBdsXH/IMG-7012.jpg",
 					"price": "paid",
 					"dsource": "img/Collections/LoFi/",
@@ -8553,6 +8574,26 @@
 		}
 	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Wz5rHqMQ/IMG-6103.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/8kSHshsP/IMG-6103.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Wz5rHqMQ/IMG-6103.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/8kSHshsP/IMG-6103.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/nzQGN4gv/IMG-1974.png",
