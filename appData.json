@@ -6822,6 +6822,41 @@
 			"wallpapers": [
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/K4XRZp43/IMG-6487.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/CuteAnimals/",
+					"dlink": "https://i.postimg.cc/h4vx1HBs/IMG-6487.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/8CwJhbXx/IMG-6488.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/CuteAnimals/",
+					"dlink": "https://i.postimg.cc/W2cGcWGp/IMG-6488.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/tJnsGGRH/IMG-6489.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/CuteAnimals/",
+					"dlink": "https://i.postimg.cc/kJfK87kD/IMG-6489.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/qBWLhk3y/IMG-6490.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/CuteAnimals/",
+					"dlink": "https://i.postimg.cc/7DZQRhPs/IMG-6490.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/qBWLhk3y/IMG-6490.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/CuteAnimals/",
+					"dlink": "https://i.postimg.cc/7DZQRhPs/IMG-6490.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/9MM41qv0/IMG-6491.jpg",
 					"price": "paid",
 					"dsource": "img/Collections/CuteAnimals/",
@@ -8595,6 +8630,36 @@
 		}
 	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/F1t0Fq5k/IMG-1552.png",
+			"category": [
+				"Retro"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/2jyGGR0G/IMG-1552.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/25CFBPq4/IMG-1551.jpg",
+			"category": [
+				"Retro"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/XnC2tW4D/IMG-1551.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/tRvSGCs8/IMG-1550.jpg",
+			"category": [
+				"Landscape"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/z589Wy8D/IMG-1550.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/vZVSzFHk/IMG-1549.jpg",
