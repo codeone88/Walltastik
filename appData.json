@@ -1516,6 +1516,34 @@
 			"wallpapers": [
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/QxGLXSTY/IMG-6420.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/Fm1hVBsv/IMG-6420.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/0yPLSQZp/IMG-6421.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/QhTsRKTn/IMG-6421.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/RCn552Nn/IMG-6422.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/yKLV9HKn/IMG-6422.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/pXDwy8QW/IMG-6423.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Abstract/",
+					"dlink": "https://i.postimg.cc/ZZg47xCd/IMG-6423.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/SQ14LypM/exclusive44.png",
 					"price": "paid",
 					"dsource": "img/Collections/Abstract/",
@@ -8630,6 +8658,26 @@
 		}
 	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/52dmfHbK/IMG-1555.jpg",
+			"category": [
+				"Photography"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/mBhpNMq4/IMG-1555.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/0NvZ0z4K/IMG-1554.jpg",
+			"category": [
+				"Photography"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/x9J7YHy5/IMG-1554.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/F1t0Fq5k/IMG-1552.png",
