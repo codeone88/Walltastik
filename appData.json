@@ -1,6 +1,6 @@
 {
 	"active": true,
-	"freeDays": false,
+	"freeDays": true,
 	"banners": false,
 	"promo": {
 		"active": false,
