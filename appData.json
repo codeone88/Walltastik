@@ -61,6 +61,27 @@
 			"wallpapers": [
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/T2z871zf/IMG-7054.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/jK5sjJvw/IMG-7054.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/FFd5V3nT/IMG-7065.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/XWxj3gK6/IMG-7065.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/c6ycQV5G/IMG-7066.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Daily/",
+					"dlink": "https://i.postimg.cc/c165NWRC/IMG-7066.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/2yBwLzGx/IMG-7081.jpg",
 					"price": "paid",
 					"dsource": "img/Collections/Daily/",
@@ -8714,6 +8735,36 @@
 		}
 	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/jqBGDFqk/IMG-1582.png",
+			"category": [
+				"Abstract"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/sy2y0kky/IMG-1582.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/3xTVB0vX/IMG-1581.png",
+			"category": [
+				"Abstract"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/z8bNqnDc/IMG-1581.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/vBkS64y6/IMG-1580.png",
+			"category": [
+				"Abstract"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/cxLq235T/IMG-1580.png"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/CKwCQ5hp/IMG-6674.jpg",
