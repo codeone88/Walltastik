@@ -8122,6 +8122,41 @@
 			"wallpapers": [
 				{
 					"user": "Walltastik",
+					"link": "https://i.postimg.cc/2jdpG329/IMG-6170.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/QDwXXT5D/IMG-6170.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/6qXkwN5h/IMG-6171.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/8pJNR12x/IMG-6171.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/JhyV5q2j/IMG-6178.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/PdyXhVbV/IMG-6178.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/7Lpvs2Fd/IMG-6260.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/69Q9QVYW/IMG-6260.jpg"
+				},
+				{
+					"user": "Walltastik",
+					"link": "https://i.postimg.cc/V6Mx3N16/IMG-6261.jpg",
+					"price": "paid",
+					"dsource": "img/Collections/Shadows/",
+					"dlink": "https://i.postimg.cc/YpytL4s1/IMG-6261.jpg"
+				},
+				{
+					"user": "Walltastik",
 					"link": "https://i.postimg.cc/Z5szNgVT/IMG-6262.jpg",
 					"price": "paid",
 					"dsource": "img/Collections/Shadows/",
@@ -8735,6 +8770,36 @@
 		}
 	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/c1zmLdmf/IMG-6614.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/GrLSz2Tg/IMG-6614.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/QdGJcSvt/IMG-6628.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/WTtYLHnM/IMG-6628.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/YC6fRYwx/IMG-6656.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/9CS8WY8s/IMG-6656.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/jqBGDFqk/IMG-1582.png",
