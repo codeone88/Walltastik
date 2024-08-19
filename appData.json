@@ -9570,6 +9570,26 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/QMyXHZnz/IMG-8602.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/2zz39zdC/IMG-8602.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/SKsSSxV8/IMG-8605.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/HT0VtJyS/IMG-8605.jpg"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/pV9mQqf8/IMG-8786.jpg",
 			"category": [
 				"Freemium"
