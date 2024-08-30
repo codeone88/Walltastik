@@ -1,7 +1,7 @@
 {
 	"active": false,
 	"freeDays": true,
-	"banners": false,
+	"banners": true,
 	"promo": {
 		"active": false,
 		"data": [
@@ -9652,6 +9652,36 @@
 		}
 	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/SQWhp9q3/IMG-8301.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/Fv6s3b6r/IMG-8301.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/PJzsbg2T/IMG-8302.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/8pxpGDvJ/IMG-8302.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/cCNGnx7F/IMG-8303.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/L9J9GhJF/IMG-8303.jpg"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/28DCqw2C/IMG-8391.jpg",
