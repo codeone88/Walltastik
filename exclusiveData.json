@@ -1,0 +1,538 @@
+{
+	"active": false,
+	"freeDays": false,
+	"categories": ["AI", "Abstract", "Anime", "Art", "City", "Fantasy", "Games", "Minimal", "Nature", "Space", "Superheroes"],
+	"creators": [
+		{
+			"user": "Walltastik",
+			"social": "https://twitter.com/Enter_Apps",
+			"store": "https://ko-fi.com/codeone88/shop",
+			"picture": "https://i.ibb.co/0K4KVxR/icon512.png",
+			"status": "online"
+		},
+		{
+			"user": "Artemis Prime",
+			"social": "https://twitter.com/fresk0_?s=20",
+			"store": "https://t.co/3jS8QjUWeo?amp=1",
+			"picture": "https://i.ibb.co/7zyPqz4/artemis.jpg",
+			"status": "online"
+		},
+		{
+			"user": "Gabriel",
+			"social": "https://twitter.com/GWallp08",
+			"store": "https://bento.me/gabriel-gw",
+			"picture": "https://i.ibb.co/0jvdT0d/gabriel.jpg",
+			"status": "online"
+		},
+		{
+			"user": "W A L Ls匚卂ㄒ乇",
+			"social": "https://twitter.com/wallscate",
+			"store": "https://twitter.com/caterina_o?s=20",
+			"picture": "https://i.ibb.co/cvFYL3r/cat.png",
+			"status": "online"
+		},
+		{
+			"user": "Wallpaperize",
+			"social": "https://twitter.com/wallpaperize?s=21&t=zzAoSGrBTpokPn7DbLc2AQ",
+			"store": "https://www.wallpaperize.cc",
+			"picture": "https://i.ibb.co/fpfx2xB/wallpaperize.jpg",
+			"status": "online"
+		},
+		{
+			"user": "PakoPod",
+			"social": "https://twitter.com/Wallpapers_iOSi",
+			"store": "https://bio.link/wallpp",
+			"picture": "https://i.ibb.co/jwmMDR7/pakopod.jpg",
+			"status": "online"
+		},
+		{
+			"user": "themexriver",
+			"social": "https://twitter.com/themexriver1",
+			"store": "https://themexriver.com/downloads/category/themexriver-items/wallpapers-themexriver-items/",
+			"picture": "https://i.ibb.co/cXFv39B/Theme-Xriver.jpg",
+			"status": "online"
+		},
+		{
+			"user": "colorwallies",
+			"social": "https://twitter.com/colorwallies",
+			"store": "https://bio.link/colorwallies",
+			"picture": "https://i.ibb.co/1LCqYj3/colorwallies.png",
+			"status": "online"
+		},
+		{
+			"user": "moondr1",
+			"social": "https://x.com/moondr1?s=21&t=zzAoSGrBTpokPn7DbLc2AQ",
+			"store": "https://ko-fi.com/moondr1",
+			"picture": "https://i.ibb.co/VBnbBpF/moondr1.jpg",
+			"status": "online"
+		},
+		{
+			"user": "CodeOne88",
+			"social": "https://twitter.com/Enter_Apps",
+			"store": "https://ko-fi.com/codeone88/shop",
+			"picture": "https://i.ibb.co/C7zz8N4/logo-Code-One512.png",
+			"status": "online"
+		}
+	],
+	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/LXGMCrLQ/processed-9.png",
+			"category": [
+				"City", "Art"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/38xJRhRh/processed-9.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/W3dv72FJ/processed-8.png",
+			"category": [
+				"Nature", "Fantasy", "AI"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/7xVZwhqX/processed-8.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/CKP0DZ1g/processed-7.png",
+			"category": [
+				"City", "Fantasy", "AI", "Games"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/MWxpCVJv/processed-7.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/43NZmvXP/processed-6.png",
+			"category": [
+				"City", "Fantasy", "AI"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/k7W5YwZ0/processed-6.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/jd7jbhjJ/processed-52.png",
+			"category": [
+				"Fantasy", "AI"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/BshP2Y9N/processed-52.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/mrRkVFB1/processed-51.png",
+			"category": [
+				"City", "Minimal"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/PdvDXm7y/processed-51.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/zXbyfrxv/processed-50.png",
+			"category": [
+				"Art", "Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/MxtVdZR7/processed-50.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/NjxBsCvL/processed-5.png",
+			"category": [
+				"Games", "City", "Fantasy"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/jtp5hB86/processed-5.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/yNXgzyvT/processed-49.png",
+			"category": [
+				"Minimal"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/KmCnB9TC/processed-49.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/HLCcKh4x/processed-48.png",
+			"category": [
+				"Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/Smn6X0nW/processed-48.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/sfnWXKy6/processed-47.png",
+			"category": [
+				"Art", "City"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/CY0sc62g/processed-47.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/rmVdyRH2/processed-46.png",
+			"category": [
+				"Nature", "AI"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/TRmn9rq1/processed-46.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/5twv2VNL/processed-45.png",
+			"category": [
+				"City", "Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/jR1hvxpg/processed-45.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/0yKDhSTt/processed-44.png",
+			"category": [
+				"City", "Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/5bngYqnM/processed-44.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/ydHmmNrL/processed-43.png",
+			"category": [
+				"Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/QXBfr9gZ/processed-43.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Qx4J2hHM/processed-42.png",
+			"category": [
+				"Space", "Art"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/CSYrfK0b/processed-42.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/MT7YNBQk/processed-41.png",
+			"category": [
+				"Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/2zJXqFj5/processed-41.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Fzhx4KyY/processed-40.png",
+			"category": [
+				"Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/rVrZ50zN/processed-40.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/t4b9HQfL/processed-4.png",
+			"category": [
+				"Space", "Fantasy", "AI"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/JMD0ZRQ4/processed-4.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/c17D5pRK/processed-39.png",
+			"category": [
+				"Space"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/pv4gyxyB/processed-39.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/9FJLcyNC/processed-38.png",
+			"category": [
+				"Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/kqdzFcQ6/processed-38.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/fyvBtdz7/processed-37.png",
+			"category": [
+				"Space","Abstract", "Minimal"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/dsbXfRgf/processed-37.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/GtRXmKCh/processed-36.png",
+			"category": [
+				"Superheroes", "Minimal"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/7HGdXtt7/processed-36.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/mr0d0Rp9/processed-35.png",
+			"category": [
+				"Abstract", "Minimal"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/yVNw38FL/processed-35.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Hkvv9bQB/processed-34.png",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/ZJJkZc0t/processed-34.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/B6Hh3yRV/processed-32.png",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/19YbG1Bs/processed-32.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/N0yJJLDY/processed-31.png",
+			"category": [
+				"City", "Nature", "Games"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/09nTNwJ6/processed-31.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/dVVSC5Th/processed-30.png",
+			"category": [
+				"Art"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/0PYgL3k0/processed-30.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/hPTKwPCL/processed-3.png",
+			"category": [
+				"Space", "Fantasy", "AI"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/vMSD44fN/processed-3.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/ZKcM0G0k/processed-29.png",
+			"category": [
+				"Space"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/kq33Y9m5/processed-29.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/rFcHVVVC/processed-28.png",
+			"category": [
+				"Space"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/WjJc7zxK/processed-28.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/J03dNgqk/processed-27.png",
+			"category": [
+				"Space", "Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/tq8QjGn2/processed-27.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/wBPPgDM7/processed-26.png",
+			"category": [
+				"Space", "Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/SyNpLrp7/processed-26.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/nzDWzM9T/processed-25.png",
+			"category": [
+				"Anime", "Superheroes"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/VYGPKCfy/processed-25.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/h4VwRzBt/processed-24.png",
+			"category": [
+				"Space", "AI"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/8GYVWMXM/processed-24.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/JzpvYfW3/processed-23.png",
+			"category": [
+				"City", "Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/LmSS5SCW/processed-23.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/yYzMDhPR/processed-22.png",
+			"category": [
+				"Space", "Minimal"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/37yYbn0t/processed-22.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/sD9t7B6N/processed-21.png",
+			"category": [
+				"Games", "Fantasy", "Superheroes", "AI"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/b8KpXkQp/processed-21.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Y2gc2D1k/processed-20.png",
+			"category": [
+				"Abstract"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/rTZqJvsd/processed-20.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/mZ0b8FSZ/processed-2.png",
+			"category": [
+				"Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/vMmc8rgn/processed-2.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/rm0BrQ31/processed-19.png",
+			"category": [
+				"Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/x0tnBZP4/processed-19.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/5y8DPjxj/processed-18.png",
+			"category": [
+				"Nature", "City"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/nFWZhQgK/processed-18.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/xd4r8Wxj/processed-17.png",
+			"category": [
+				"Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/699BjKCZ/processed-17.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/wBv866kb/processed-16.png",
+			"category": [
+				"Superheroes", "Space", "Fantasy"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/9cPWY0wV/processed-16.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/JzKCVyjk/processed-15.png",
+			"category": [
+				"Nature", "Space", "Fantasy"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/y7C1Rcdv/processed-15.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/52fWR5QJ/processed-14.png",
+			"category": [
+				"City"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/7w2Pbmx5/processed-14.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/7Y3y9t6X/processed-13.png",
+			"category": [
+				"Anime", "Superheroes"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/GrNhcZ10/processed-13.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/TYM6rvRp/processed-12.png",
+			"category": [
+				"Fantasy", "AI"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/PhN5nd9z/processed-12.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/59FJY2Wh/processed-11.png",
+			"category": [
+				"Fantasy", "AI"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/gpg27xS2/processed-11.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/cLGL48Kk/processed.png",
+			"category": [
+				"Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/hcfzsLKn/processed.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/fyXQ6Bvz/processed-10.png",
+			"category": [
+				"City"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/xfpjNZJz/processed-10.png"
+		}
+	]
+}
