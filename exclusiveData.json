@@ -77,6 +77,78 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/gJDLbFFf/processed-10.png",
+			"category": [
+				"Nature", "City"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/tq03PprC/processed-10.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/tTyncRf3/processed-11.png",
+			"category": [
+				"Art"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/CFnCzzsQ/processed-11.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/W1FZFHgk/processed-12.png",
+			"category": [
+				"Art"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/QhSJPLM0/processed-12.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/vHmfMBmX/processed-13.png",
+			"category": [
+				"Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/vMrzrxwR/processed-13.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/qBwy9npz/processed-14.png",
+			"category": [
+				"Nature", "Art"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/GrwKTJNJ/processed-14.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/tJB6W0Bh/processed-15.png",
+			"category": [
+				"Abstract", "Minimal"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/jqbhVtNk/processed-15.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/gjzRxcHz/processed-16.png",
+			"category": [
+				"Abstract"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/zzWkPVLg/processed-16.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/XJcdNBF1/processed-17.png",
+			"category": [
+				"Abstract"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/08hffpNv/processed-17.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/vmGQF1YZ/processed-2.png",
 			"category": [
 				"Anime"
