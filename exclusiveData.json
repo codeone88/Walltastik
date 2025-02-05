@@ -1,7 +1,7 @@
 {
 	"active": false,
 	"freeDays": false,
-	"categories": ["AI", "Abstract", "Anime", "Art", "City", "Fantasy", "Games", "Minimal", "Nature", "Photography", "Space", "Superheroes", "Dragon Ball Saiyans: Dark Shadows", "Demon Slayer"],
+	"categories": ["AI", "Abstract", "Anime", "Art", "City", "Fantasy", "Games", "Minimal", "Nature", "Photography", "Space", "Superheroes", "Dragon Ball Saiyans", "Demon Slayer"],
 	"creators": [
 		{
 			"user": "Walltastik",
@@ -75,6 +75,51 @@
 		}
 	],
 	"wallpapers": [
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/HLy7jmm3/1000007032-x9-Original.png",
+			"category": [
+				"Superheroes"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/fMH72Wr4/1000007032-x9-Original.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/MKLTBLdL/1000007033-x9-Original.png",
+			"category": [
+				"Superheroes"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/GdLsW-wYb/1000007033-x9-Original.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/XJ5cMFXj/1000007034-x9-Original.png",
+			"category": [
+				"Superheroes"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/7xsB2nk2/1000007034-x9-Original.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/K8YPGC4s/1000007035-x9-Original.png",
+			"category": [
+				"Superheroes"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/R47XRBm9/1000007035-x9-Original.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/RF16QTNH/1000007036-x9-Original.png",
+			"category": [
+				"Superheroes"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/HpRwmZmB/1000007036-x9-Original.png"
+		},
 		{
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/2yKz4qFW/1000007138-x9-Original.png",
@@ -475,7 +520,7 @@
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/SNfMGs5Q/processed-16.png",
 			"category": [
-				"Dragon Ball Saiyans: Dark Shadows"
+				"Dragon Ball Saiyans"
 			],
 			"price": "exclusive",
 			"dlink": "https://i.postimg.cc/HHf9d89M/processed-16.png"
@@ -484,7 +529,7 @@
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/h4xxfM1d/processed-17.png",
 			"category": [
-				"Dragon Ball Saiyans: Dark Shadows"
+				"Dragon Ball Saiyans"
 			],
 			"price": "exclusive",
 			"dlink": "https://i.postimg.cc/VwZFZVSD/processed-17.png"
@@ -493,7 +538,7 @@
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/C5jfXLxN/processed-18.png",
 			"category": [
-				"Dragon Ball Saiyans: Dark Shadows"
+				"Dragon Ball Saiyans"
 			],
 			"price": "exclusive",
 			"dlink": "https://i.postimg.cc/zzQSLym9/processed-18.png"
@@ -502,7 +547,7 @@
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/Dw517Zdp/processed-19.png",
 			"category": [
-				"Dragon Ball Saiyans: Dark Shadows"
+				"Dragon Ball Saiyans"
 			],
 			"price": "exclusive",
 			"dlink": "https://i.postimg.cc/6BxcL47K/processed-19.png"
@@ -520,7 +565,7 @@
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/HswQP3Jg/processed-20.png",
 			"category": [
-				"Dragon Ball Saiyans: Dark Shadows"
+				"Dragon Ball Saiyans"
 			],
 			"price": "exclusive",
 			"dlink": "https://i.postimg.cc/51GnyRb6/processed-20.png"
@@ -529,7 +574,7 @@
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/vZGWR996/processed-21.png",
 			"category": [
-				"Dragon Ball Saiyans: Dark Shadows"
+				"Dragon Ball Saiyans"
 			],
 			"price": "exclusive",
 			"dlink": "https://i.postimg.cc/gmZ4ZH24/processed-21.png"
@@ -538,7 +583,7 @@
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/RV57R2Zd/processed-22.png",
 			"category": [
-				"Dragon Ball Saiyans: Dark Shadows"
+				"Dragon Ball Saiyans"
 			],
 			"price": "exclusive",
 			"dlink": "https://i.postimg.cc/vMD0QsRJ/processed-22.png"
@@ -547,7 +592,7 @@
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/X7d864zt/processed-23.png",
 			"category": [
-				"Dragon Ball Saiyans: Dark Shadows"
+				"Dragon Ball Saiyans"
 			],
 			"price": "exclusive",
 			"dlink": "https://i.postimg.cc/GrSSYpJ3/processed-23.png"
@@ -556,7 +601,7 @@
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/VkwFY2yv/processed-24.png",
 			"category": [
-				"Dragon Ball Saiyans: Dark Shadows"
+				"Dragon Ball Saiyans"
 			],
 			"price": "exclusive",
 			"dlink": "https://i.postimg.cc/vbg2vd3r/processed-24.png"
@@ -565,7 +610,7 @@
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/h4HrYfp9/processed-25.png",
 			"category": [
-				"Dragon Ball Saiyans: Dark Shadows"
+				"Dragon Ball Saiyans"
 			],
 			"price": "exclusive",
 			"dlink": "https://i.postimg.cc/k95pBSSh/processed-25.png"
@@ -574,7 +619,7 @@
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/g2KHr4dD/processed-26.png",
 			"category": [
-				"Dragon Ball Saiyans: Dark Shadows"
+				"Dragon Ball Saiyans"
 			],
 			"price": "exclusive",
 			"dlink": "https://i.postimg.cc/kq011hpk/processed-26.png"
@@ -655,7 +700,7 @@
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/8CQdy34N/processed-27.png",
 			"category": [
-				"Dragon Ball Saiyans: Dark Shadows"
+				"Dragon Ball Saiyans"
 			],
 			"price": "exclusive",
 			"dlink": "https://i.postimg.cc/vGDPmw6g/processed-27.png"
@@ -664,7 +709,7 @@
 			"user": "Walltastik",
 			"link": "https://i.postimg.cc/J06cPz62/processed-8.jpg",
 			"category": [
-				"Dragon Ball Saiyans: Dark Shadows"
+				"Dragon Ball Saiyans"
 			],
 			"price": "exclusive",
 			"dlink": "https://i.postimg.cc/L4RC4qz2/processed-8.jpg"
