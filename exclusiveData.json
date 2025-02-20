@@ -77,6 +77,51 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/qR24KmWM/processed-29.png",
+			"category": [
+				"AI", "Fantasy"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/w6GvSZVJ/processed-29.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/02wrffmm/processed-3.png",
+			"category": [
+				"Minimal", "Photography"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/mRdMTpgd/processed-3.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/L5TSCJHc/processed-30.png",
+			"category": [
+				"City", "Games"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/bYXvvn4w/processed-30.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/NjLtDGZn/processed-31.png",
+			"category": [
+				"City"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/KxDYZRfm/processed-31.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/x8trGB5Y/processed-32.png",
+			"category": [
+				"City", "Fantasy"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/NGwgtcry/processed-32.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/DfgKKbTD/processed-33.png",
 			"category": [
 				"Anime"
