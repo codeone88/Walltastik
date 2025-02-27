@@ -77,6 +77,51 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/k42tddVY/processed-15.png",
+			"category": [
+				"Art", "Minimal", "Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/VYR9nfzw/processed-15.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/WbLqxCsS/processed-16.png",
+			"category": [
+				"Art", "Minimal"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/WjtmqcCR/processed-16.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/PqxCmkMf/processed-17.png",
+			"category": [
+				"Art", "Minimal"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/bq01fyDn/processed-17.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/50QjRqGZ/processed-19.png",
+			"category": [
+				"City"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/2z2v30x8/processed-19.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/pXHysjB6/processed-20.png",
+			"category": [
+				"City"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/syBSD9Gs/processed-20.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/t4rTRMGK/processed-21.png",
 			"category": [
 				"Anime"
