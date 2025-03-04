@@ -77,6 +77,51 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/fTqnVnkf/processed.png",
+			"category": [
+				"Photography"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/3YYKb3TV/processed.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/grFz5CRh/processed-10.png",
+			"category": [
+				"City"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/1R48gP3v/processed-10.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/8zGWf33s/processed-11.png",
+			"category": [
+				"Art", "City"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/rM0932NG/processed-11.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/FKsLDSh4/processed-12.png",
+			"category": [
+				"Art", "Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/6BCf6VSy/processed-12.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/tgSVfggV/processed-14.png",
+			"category": [
+				"Art", "Nature"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/yVBXDg4n/processed-14.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/k42tddVY/processed-15.png",
 			"category": [
 				"Art", "Minimal", "Nature"
