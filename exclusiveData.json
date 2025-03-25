@@ -77,6 +77,51 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Dw4Q1LfY/1000009504-x9-Original.png",
+			"category": [
+				"City", "Photography"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/xntsD3wY/1000009504-x9-Original.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/PJqYJ8Fy/1000009505-x9-Original.png",
+			"category": [
+				"City", "Photography"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/54B3PBBh/1000009505-x9-Original.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Qt73x3Sc/1000008718-x9.png",
+			"category": [
+				"Space", "AI"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/XVH7LNC1/1000008718-x9.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/2SHm0TVL/1000010373-x9.png",
+			"category": [
+				"Space", "Fantasy"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/XnWJ7zWL/1000010373-x9.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/nLCxg7DR/1000010375-x9.png",
+			"category": [
+				"Space", "Fantasy"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/2Cx5q78D/1000010375-x9.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/GpVRC2Pc/1000010415-x9.png",
 			"category": [
 				"Space"
