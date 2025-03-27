@@ -77,6 +77,51 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/J41d3TSY/1000009453-x9-Original.png",
+			"category": [
+				"Superheroes", "Fantasy"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/9VT5hKb2/1000009453-x9-Original.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/PfMSqWNW/1000009456-x9-Original.png",
+			"category": [
+				"Superheroes", "Fantasy"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/TxzFCQ64/1000009456-x9-Original.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/763m079y/1000009458-x9-Original.png",
+			"category": [
+				"Superheroes", "Fantasy"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/bzMWX92d/1000009458-x9-Original.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/qMMj6NC9/1000009460-x9-Original.png",
+			"category": [
+				"City", "Photography"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/LRj77f46/1000009460-x9-Original.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/rshGN9t7/1000009503-x9-Original.png",
+			"category": [
+				"City", "Photography"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/59JP1799/1000009503-x9-Original.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/Dw4Q1LfY/1000009504-x9-Original.png",
 			"category": [
 				"City", "Photography"
