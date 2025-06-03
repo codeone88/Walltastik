@@ -9706,6 +9706,82 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/vmtHPsDy/processed-47.jpg",
+			"category": [
+				"VisualZen"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/k7k6gMm2/processed-47.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Tw22F4WD/processed-46.jpg",
+			"category": [
+				"VisualZen"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/GcGB80Lq/processed-46.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/7Zgx6k3z/processed-45.jpg",
+			"category": [
+				"VisualZen"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/gm7rgcrg/processed-45.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/pdCRfJ1X/processed-44.jpg",
+			"category": [
+				"VisualZen"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/4JkyT86t/processed-44.jpg"
+		},
+		{
+			"user": "CodeOne88",
+			"link": "https://i.postimg.cc/5yqz3wQy/processed-83.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dlink": "https://i.postimg.cc/Vf2FzgYq/processed-83.jpg"
+		},
+		{
+			"user": "CodeOne88",
+			"link": "https://i.postimg.cc/xjKLnSpQ/processed-84.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dlink": "https://i.postimg.cc/74R91Hg5/processed-84.jpg"
+		},
+		{
+			"user": "CodeOne88",
+			"link": "https://i.postimg.cc/NfBm0PZH/processed-85.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dlink": "https://i.postimg.cc/syZcwkcw/processed-85.jpg"
+		},
+		{
+			"user": "CodeOne88",
+			"link": "https://i.postimg.cc/TPLWS85Z/processed-86.jpg",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dlink": "https://i.postimg.cc/jRvQDtxd/processed-86.jpg"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://raw.githubusercontent.com/codeone88/Walltastik/main/img/Wallpapers/WalltastiK/processed-63.PNG",
 			"category": [
 				"CodeOne88"
