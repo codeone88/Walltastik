@@ -77,6 +77,42 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/7Y3xF8rG/processed-57.png",
+			"category": [
+				"Photography"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/4ZMmhs85/processed-57.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Y2m2xLXx/processed-60.png",
+			"category": [
+				"City"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/Kb0KxnBC/processed-60.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/BQ9S7Zkf/processed-61.png",
+			"category": [
+				"City", "Fantasy"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/pxymTpBr/processed-61.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/XYnV3Hn2/processed-62.png",
+			"category": [
+				"City", "Games"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/rMrz133L/processed-62.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/T3QxqLkg/1000008702-x9-Original.png",
 			"category": [
 				"Fantasy", "Anime"
