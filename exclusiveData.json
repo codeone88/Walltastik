@@ -77,6 +77,51 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://iili.io/3mn3yUg.png",
+			"category": [
+				"Anime", "Photography"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/3mn3yUg.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://iili.io/3mn34Uu.png",
+			"category": [
+				"City"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/3mn34Uu.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://iili.io/3mn3iRj.png",
+			"category": [
+				"Anime", "Fantasy"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/3mn3iRj.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://iili.io/3mn38VS.png",
+			"category": [
+				"Anime", "Fantasy"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/3mn38VS.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://iili.io/3mn3hSs.png",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/3mn3hSs.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/7Y3xF8rG/processed-57.png",
 			"category": [
 				"Photography"
