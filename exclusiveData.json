@@ -77,6 +77,42 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/sgVM6bZG/processed-48.jpg",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/MqB1TS65/processed-48.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/Z5VC1jr7/processed-49.jpg",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/6BNn4mTX/processed-49.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/LXmQn9q6/processed-5.jpg",
+			"category": [
+				"City"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/js7p3CtN/processed-5.jpg"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/VLPrMJfR/processed-50.jpg",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/Fm7jMSw-2/processed-50.jpg"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://iili.io/3mn3yUg.png",
 			"category": [
 				"Anime", "Photography"
