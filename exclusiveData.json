@@ -77,6 +77,42 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://iili.io/FeLeVRe.png",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/FeLeVRe.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://iili.io/FeLeaV4.png",
+			"category": [
+				"City", "Photography"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/FeLeaV4.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://iili.io/FeLeCVR.png",
+			"category": [
+				"Superheroes"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/FeLeCVR.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://iili.io/FeLexKN.png",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/FeLexKN.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/sgVM6bZG/processed-48.jpg",
 			"category": [
 				"Anime"
