@@ -77,6 +77,33 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://iili.io/FeLklIa.png",
+			"category": [
+				"Photography"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/FeLklIa.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://iili.io/FeLkJs4.png",
+			"category": [
+				"Photography"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/FeLkJs4.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://iili.io/FeLeb5X.png",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/FeLeb5X.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/XYYTQTj0/processed-26.png",
 			"category": [
 				"Anime"
