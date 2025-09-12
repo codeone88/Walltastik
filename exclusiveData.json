@@ -77,6 +77,42 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://iili.io/FeLsPXS.png",
+			"category": [
+				"Superheroes", "City", "Fantasy"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/FeLsPXS.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://iili.io/FeLLTBt.png",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/FeLLTBt.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://iili.io/FeLLA4n.png",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/FeLLA4n.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://iili.io/FeLLlTl.png",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/FeLLlTl.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://iili.io/FeLvovt.png",
 			"category": [
 				"Photography"
