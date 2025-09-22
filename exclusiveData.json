@@ -77,6 +77,24 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://iili.io/FeQNblS.png",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/FeQNDf2.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://iili.io/FeQNDf2.png",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://iili.io/FeQNDf2.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://iili.io/FeLsPXS.png",
 			"category": [
 				"Superheroes", "City", "Fantasy"
