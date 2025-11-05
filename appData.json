@@ -9783,6 +9783,26 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/7hPXMTDs/Fe-Qk-Cwg.png",
+			"category": [
+				"Freemium"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/Q81PDpz3/Fe-Qk-Cwg.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/FH6qrGmH/Fe-Qey-Zb.png",
+			"category": [
+				"VisualZen"
+			],
+			"price": "free",
+			"dsource": "img/Wallpapers/Wallers/",
+			"dlink": "https://i.postimg.cc/6B6Nh1mn/Fe-Qey-Zb.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/tJb80Tbr/Fe-Qet87.png",
 			"category": [
 				"Freemium"

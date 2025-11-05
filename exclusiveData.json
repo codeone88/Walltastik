@@ -77,6 +77,33 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/0jLxJx1Q/Fe-QOp-BR.png",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/dQ00ptW8/Fe-QOp-BR.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/FH0F3fKW/Fe-QOQmg.png",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/ssNBF7Cr/Fe-QOQmg.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/kG2h8b7H/Fe-Q82k-P.png",
+			"category": [
+				"Superheroes", "Fantasy"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/Vfgyxqpz/Fe-Q82k-P.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/yNPVpwcv/Fe-QOt-Ia.png",
 			"category": [
 				"Anime"
