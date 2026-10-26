@@ -77,6 +77,33 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/9M0TVYLK/Fe-Qokdu.png",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/KZr5P9BG/Fe-Qokdu.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/85XRr07h/Fe-Qo-Kx-V.png",
+			"category": [
+				"Photography"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/HYdBFGHP/Fe-Qo-Kx-V.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/qBYcJWVC/Fe-Qon0F.png",
+			"category": [
+				"Fantasy", "Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/Wjp5nP5S/Fe-Qon0F.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/nzq1NkrR/Fe-QTLn-R.png",
 			"category": [
 				"Fantasy"
