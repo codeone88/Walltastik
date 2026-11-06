@@ -77,6 +77,33 @@
 	"wallpapers": [
 		{
 			"user": "Walltastik",
+			"link": "https://i.postimg.cc/rFrHMSHY/Fe-QIQ29.png",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/tySGdkNy/Fe-QIQ29.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/tT4fj80c/Fe-QISm-G.png",
+			"category": [
+				"Anime"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/nH4tvt3n/Fe-QISm-G.png"
+		},
+		{
+			"user": "Walltastik",
+			"link": "https://i.postimg.cc/sf8LknTB/Fe-QIsr7.png",
+			"category": [
+				"AI"
+			],
+			"price": "exclusive",
+			"dlink": "https://i.postimg.cc/dvtKTpd9/Fe-QIsr7.png"
+		},
+		{
+			"user": "Walltastik",
 			"link": "https://i.postimg.cc/qMS1Fzv4/Fe-Qn-QDl.png",
 			"category": [
 				"AI"
